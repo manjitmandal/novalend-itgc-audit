@@ -1,0 +1,4 @@
+pandas>=2.0
+openpyxl>=3.1
+# Faker is pinned so the generated names match the committed data exactly
+Faker==40.63.0

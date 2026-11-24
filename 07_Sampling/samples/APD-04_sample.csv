@@ -1,0 +1,12 @@
+sample_no,system,layer,privilege,account_name,employee_id,granted_date,full_name,department,job_title,employment_status
+1,LendCore,Application,System Admin,yashvi_adm,E1620,2024-10-01,Yashvi Bhattacharyya,IT - Operations,Release Engineer,Active
+2,LendCore,Application,System Admin,nathaniel_adm,E1611,2023-02-01,Nathaniel Ramaswamy,IT - Operations,Systems Engineer,Active
+3,LendCore,Application,System Admin,kabir_adm,E1632,2021-11-17,Kabir Nagi,IT - Operations,Release Engineer,Active
+4,LendCore,Application,System Admin,unni_adm,E1580,2024-02-12,Unni Kuruvilla,IT - Application Development,Senior Developer,Active
+5,NL-APP-01,Operating System,Linux sudo (root),balendra_adm,E1637,2021-07-13,Balendra Comar,IT - Operations,Release Engineer,Active
+6,NL-APP-01,Operating System,Linux sudo (root),jagat_adm,E1615,2022-03-15,Jagat Srinivasan,IT - Operations,Release Engineer,Active
+7,NL-APP-01,Operating System,Linux sudo (root),nitesh_adm,E1629,2022-06-23,Nitesh Johal,IT - Operations,Database Administrator,Active
+8,NL-DB-01,Database,PostgreSQL superuser,udarsh_adm,E1635,2025-02-28,Udarsh Rege,IT - Operations,Systems Engineer,Active
+9,NL-DB-01,Database,PostgreSQL superuser,ira_adm,E1634,2022-06-30,Ira Kalita,IT - Operations,Systems Engineer,Active
+10,NL-DB-01,Operating System,Linux sudo (root),daksh_adm,E1622,2022-03-10,Daksh Som,IT - Operations,Systems Engineer,Active
+11,NL-DB-01,Operating System,Linux sudo (root),arin_adm,E1633,2024-02-07,Arin Sengupta,IT - Operations,Database Administrator,Active

@@ -1,0 +1,11 @@
+sample_no,employee_id,full_name,department,termination_date,user_id,account_status,disabled_date,last_login_date
+1,E1444,Charles Kakar,Credit Risk,2025-06-20,LC5287,Disabled,2025-06-20,2025-06-20
+2,E1461,Kala Kaul,Credit Risk,2025-07-08,LC5304,Disabled,2025-07-09,2025-07-07
+3,E1224,Vanya Contractor,Loan Operations,2025-07-18,LC5217,Disabled,2025-07-21,2025-07-18
+4,E1442,Yug Tak,Credit Risk,2025-08-14,LC5285,Disabled,2025-08-14,2025-08-13
+5,E1047,Zaitra Parikh,Loan Operations,2025-08-22,LC5040,Disabled,2025-08-22,2025-08-22
+6,E1221,Frederick Deshpande,Loan Operations,2025-08-26,LC5214,Disabled,2025-08-26,2025-08-20
+7,E1478,Om Wadhwa,Finance,2025-09-05,LC5321,Disabled,2025-09-08,2025-09-05
+8,E1440,Leela Chaudry,Credit Risk,2025-10-28,LC5283,Disabled,2025-10-28,2025-10-24
+9,E1209,Jatin Misra,Loan Operations,2026-01-16,LC5202,Disabled,2026-01-16,2026-01-13
+10,E1019,Rudra Joshi,Loan Operations,2026-03-11,LC5012,Disabled,2026-03-12,2026-03-08

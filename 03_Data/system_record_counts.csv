@@ -1,0 +1,13 @@
+file_name,source_system,record_count_reported,extracted_by,extraction_date
+hr_employees.csv,PeopleHub,653,Priya Nair (IT Operations),2026-05-04
+lendcore_users.csv,LendCore,396,Priya Nair (IT Operations),2026-05-04
+access_requests.csv,ServiceDesk,38,Priya Nair (IT Operations),2026-05-04
+privileged_users.csv,LendCore / NL-DB-01 / NL-APP-01,11,Priya Nair (IT Operations),2026-05-04
+uar_reviews.csv,Information Security tracker,4,Priya Nair (IT Operations),2026-05-04
+change_tickets.csv,ServiceDesk,152,Priya Nair (IT Operations),2026-05-04
+deployment_log.csv,LendCore release tool,153,Priya Nair (IT Operations),2026-05-04
+sdlc_digital_onboarding.csv,Project repository,8,Priya Nair (IT Operations),2026-05-04
+backup_log.csv,Backup scheduler,365,Priya Nair (IT Operations),2026-05-04
+restore_tests.csv,IT Operations tracker,3,Priya Nair (IT Operations),2026-05-04
+batch_job_log.csv,Job scheduler,1095,Priya Nair (IT Operations),2026-05-04
+incidents.csv,ServiceDesk,23,Priya Nair (IT Operations),2026-05-04

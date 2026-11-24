@@ -1,0 +1,19 @@
+control_id,record_id,detected_by,comment
+APD-01,LC5018,Full-population analytics,No access request ticket
+APD-01,LC5248,Full-population analytics,"Approved 2025-11-21, access granted 2025-11-18"
+APD-02,E1226,Full-population analytics,Disabled 15 business days after termination
+APD-02,E1079,Full-population analytics,Disabled 6 business days after termination
+APD-02,E1139,Full-population analytics,Account still active at period end (left 2025-11-18); Last login 2025-12-01 is after termination 2025-11-18
+APD-03,UAR-Q3,100% testing,Only 2 of 4 requested removals completed
+APD-04,E1580,100% testing,System Admin on LendCore held by IT - Application Development (Senior Developer)
+APD-05,LC9002,100% testing,Account 'ops_shared' has no matching employee
+PC-01,DEP-30084,Full-population analytics,No UAT evidence on the change ticket
+PC-02,DEP-30069,Full-population analytics,Deployed to production with no change ticket
+PC-02,DEP-30140,Full-population analytics,"Deployed 2026-02-25, approved 2026-02-27"
+PC-03,DEP-30034,Full-population analytics,Deployed by E1583 (IT - Application Development); Developer deployed their own change
+PC-04,DEP-30035,Full-population analytics,Approved 6 business days after deployment
+PD-02,SDLC-05,100% testing,"UAT signed off 2025-11-20, after go-live on 2025-11-17"
+CO-01,BKP-20250409,100% testing,No incident raised for the backup failure
+CO-01,BKP-20250516,100% testing,Incident raised 3 business days after failure
+CO-02,Q3,100% testing,No restore test performed in Q3
+CO-03,BAT-20260125-GL,Full-population analytics,GL_INTERFACE failure with no incident or investigation

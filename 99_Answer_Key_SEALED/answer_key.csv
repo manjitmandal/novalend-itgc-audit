@@ -1,0 +1,19 @@
+exception_id,control_id,record_id,source_file,description
+AK-01,APD-01,LC5248,access_requests.csv,Access granted before line-manager approval (approval 3 business days after account creation).
+AK-02,APD-01,LC5018,access_requests.csv,New LendCore account created with no ServiceDesk access request ticket.
+AK-03,APD-02,E1079,lendcore_users.csv,Leaver's LendCore access disabled 6 business days after termination.
+AK-04,APD-02,E1226,lendcore_users.csv,Leaver's LendCore access disabled 15 business days after termination.
+AK-05,APD-02,E1139,lendcore_users.csv,"Leaver's LendCore account still active at period end, with a login 9 business days after termination."
+AK-06,APD-03,UAR-Q3,uar_reviews.csv,Q3 access review: only 2 of 4 removals requested by managers were completed.
+AK-07,APD-04,E1580,privileged_users.csv,Application developer holds the LendCore System Admin role in production.
+AK-08,APD-05,LC9002,lendcore_users.csv,Generic/shared account 'ops_shared' not mapped to any PeopleHub employee.
+AK-09,PC-01,DEP-30084,change_tickets.csv,Normal change deployed with no user acceptance testing (UAT) evidence.
+AK-10,PC-02,DEP-30140,change_tickets.csv,Normal change deployed to production 2 business days before Change Manager approval.
+AK-11,PC-03,DEP-30034,deployment_log.csv,Change deployed to production by its own developer instead of IT Operations.
+AK-12,PC-02,DEP-30069,deployment_log.csv,Production deployment to Interest Accrual with no change ticket (unauthorised change).
+AK-13,PC-04,DEP-30035,change_tickets.csv,Emergency change approved 6 business days after deployment (limit is 2).
+AK-14,PD-02,SDLC-05,sdlc_digital_onboarding.csv,"UAT sign-off dated 20-Nov-2025, three days after go-live on 17-Nov-2025."
+AK-15,CO-01,BKP-20250409,incidents.csv,Backup failure with no ServiceDesk incident raised.
+AK-16,CO-01,BKP-20250516,incidents.csv,Backup failure incident raised 3 business days after the failure (limit is 1).
+AK-17,CO-02,Q3,restore_tests.csv,No restore test performed in Q3 (Oct-Dec 2025).
+AK-18,CO-03,BAT-20260125-GL,batch_job_log.csv,GL_INTERFACE batch failure with no incident and no evidence of investigation.

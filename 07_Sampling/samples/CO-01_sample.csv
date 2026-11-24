@@ -1,0 +1,11 @@
+sample_no,run_id,run_date,status,incident_id,created_date,resolved_date,resolution
+1,BKP-20250409,2025-04-09,FAILED,,,,
+2,BKP-20250516,2025-05-16,FAILED,INC-40003,2025-05-21,2025-05-22,Backup storage volume full. Job re-run completed successfully.
+3,BKP-20250702,2025-07-02,FAILED,INC-40006,2025-07-02,2025-07-04,Backup agent service stopped. Job re-run completed successfully.
+4,BKP-20250712,2025-07-12,FAILED,INC-40009,2025-07-12,2025-07-15,Backup agent service stopped. Job re-run completed successfully.
+5,BKP-20250905,2025-09-05,FAILED,INC-40014,2025-09-08,2025-09-08,Network timeout to backup server. Job re-run completed successfully.
+6,BKP-20251104,2025-11-04,FAILED,INC-40016,2025-11-04,2025-11-05,PostgreSQL lock timeout. Job re-run completed successfully.
+7,BKP-20251105,2025-11-05,FAILED,INC-40017,2025-11-06,2025-11-10,Backup agent service stopped. Job re-run completed successfully.
+8,BKP-20260107,2026-01-07,FAILED,INC-40020,2026-01-07,2026-01-08,Backup agent service stopped. Job re-run completed successfully.
+9,BKP-20260118,2026-01-18,FAILED,INC-40021,2026-01-18,2026-01-19,Backup agent service stopped. Job re-run completed successfully.
+10,BKP-20260305,2026-03-05,FAILED,INC-40023,2026-03-06,2026-03-10,Backup storage volume full. Job re-run completed successfully.

@@ -1,0 +1,40 @@
+user_id,employee_id,full_name,department,role,account_created_date,manager_id,ticket_id,role_requested,approver_id,approver_name,approval_date
+LC5316,E1473,Bhavika Mall,Finance,Finance User,2025-04-03,E1001,REQ-70033,Finance User,E1001,Vikram Shah,2025-03-31
+LC5250,E1407,Ucchal Kohli,Credit Risk,Credit Approver,2025-04-04,E1009,REQ-70030,Credit Approver,E1009,Vanya Ghose,2025-03-26
+LC5011,E1018,Zinal Balasubramanian,Loan Operations,Loan Officer,2025-04-14,E1008,REQ-70007,Loan Officer,E1008,Meera Iyer,2025-04-10
+LC5009,E1016,Ranbir Bala,Loan Operations,Loan Officer,2025-04-15,E1008,REQ-70005,Loan Officer,E1008,Meera Iyer,2025-04-08
+LC5020,E1027,Devika Dyal,Loan Operations,Loan Officer,2025-05-16,E1008,REQ-70016,Loan Officer,E1008,Meera Iyer,2025-05-07
+LC5006,E1013,Siddharth Prashad,Loan Operations,Loan Officer,2025-05-21,E1008,REQ-70002,Loan Officer,E1008,Meera Iyer,2025-05-15
+LC5008,E1015,Yashvi Bhavsar,Loan Operations,Loan Officer,2025-05-21,E1008,REQ-70004,Loan Officer,E1008,Meera Iyer,2025-05-19
+LC5361,E1608,Wazir Parsa,IT - Operations,Operations Admin,2025-05-28,E1005,REQ-70037,Operations Admin,E1005,Priya Nair,2025-05-28
+LC5018,E1025,Raagini Balakrishnan,Loan Operations,Loan Officer,2025-05-30,E1008,,,,,
+LC5246,E1403,Elijah Kurian,Credit Risk,Credit Approver,2025-06-06,E1009,REQ-70026,Credit Approver,E1009,Vanya Ghose,2025-06-03
+LC5363,E1610,Jai Seth,IT - Operations,Operations Admin,2025-07-07,E1005,REQ-70039,Operations Admin,E1005,Priya Nair,2025-06-26
+LC5010,E1017,Mitali Sharma,Loan Operations,Loan Officer,2025-07-09,E1008,REQ-70006,Loan Officer,E1008,Meera Iyer,2025-07-02
+LC5016,E1023,Patrick Naik,Loan Operations,Loan Officer,2025-07-17,E1008,REQ-70012,Loan Officer,E1008,Meera Iyer,2025-07-11
+LC5007,E1014,Nisha Bawa,Loan Operations,Loan Officer,2025-07-21,E1008,REQ-70003,Loan Officer,E1008,Meera Iyer,2025-07-16
+LC5021,E1028,Garima Menon,Loan Operations,Loan Officer,2025-08-21,E1008,REQ-70017,Loan Officer,E1008,Meera Iyer,2025-08-14
+LC5251,E1408,Indali Sawhney,Credit Risk,Credit Approver,2025-08-22,E1009,REQ-70031,Credit Approver,E1009,Vanya Ghose,2025-08-15
+LC5317,E1474,Raagini Sane,Finance,Finance User,2025-08-26,E1001,REQ-70034,Finance User,E1001,Vikram Shah,2025-08-22
+LC5315,E1472,Jyoti Yogi,Finance,Finance User,2025-09-01,E1001,REQ-70032,Finance User,E1001,Vikram Shah,2025-08-29
+LC5249,E1406,Fariq Mandal,Credit Risk,Credit Approver,2025-09-16,E1009,REQ-70029,Credit Approver,E1009,Vanya Ghose,2025-09-12
+LC5027,E1034,Aryan Tiwari,Loan Operations,Loan Officer,2025-09-17,E1008,REQ-70023,Loan Officer,E1008,Meera Iyer,2025-09-11
+LC5028,E1035,Bachittar Jha,Loan Operations,Loan Officer,2025-09-25,E1008,REQ-70024,Loan Officer,E1008,Meera Iyer,2025-09-23
+LC5013,E1020,Yagnesh Bali,Loan Operations,Loan Officer,2025-09-29,E1008,REQ-70009,Loan Officer,E1008,Meera Iyer,2025-09-24
+LC5005,E1012,Guneet Bassi,Loan Operations,Loan Officer,2025-10-14,E1008,REQ-70001,Loan Officer,E1008,Meera Iyer,2025-10-08
+LC5012,E1019,Rudra Joshi,Loan Operations,Loan Officer,2025-10-22,E1008,REQ-70008,Loan Officer,E1008,Meera Iyer,2025-10-15
+LC5024,E1031,Indali Zacharia,Loan Operations,Loan Officer,2025-10-22,E1008,REQ-70020,Loan Officer,E1008,Meera Iyer,2025-10-21
+LC5318,E1475,Harita Madan,Finance,Finance User,2025-10-24,E1001,REQ-70035,Finance User,E1001,Vikram Shah,2025-10-21
+LC5247,E1404,Wridesh Sura,Credit Risk,Credit Approver,2025-11-14,E1009,REQ-70027,Credit Approver,E1009,Vanya Ghose,2025-11-11
+LC5248,E1405,Samuel Samra,Credit Risk,Credit Approver,2025-11-18,E1009,REQ-70028,Credit Approver,E1009,Vanya Ghose,2025-11-21
+LC5362,E1609,Warjas Palla,IT - Operations,Operations Admin,2025-12-24,E1005,REQ-70038,Operations Admin,E1005,Priya Nair,2025-12-18
+LC5023,E1030,Anvi Divan,Loan Operations,Loan Officer,2025-12-30,E1008,REQ-70019,Loan Officer,E1008,Meera Iyer,2025-12-25
+LC5360,E1607,Laban Ganguly,IT - Operations,Operations Admin,2026-01-02,E1005,REQ-70036,Operations Admin,E1005,Priya Nair,2025-12-30
+LC5015,E1022,Triveni Mall,Loan Operations,Loan Officer,2026-01-06,E1008,REQ-70011,Loan Officer,E1008,Meera Iyer,2025-12-31
+LC5019,E1026,Yash Padmanabhan,Loan Operations,Loan Officer,2026-01-08,E1008,REQ-70015,Loan Officer,E1008,Meera Iyer,2026-01-02
+LC5025,E1032,Yadavi Rajagopal,Loan Operations,Loan Officer,2026-01-14,E1008,REQ-70021,Loan Officer,E1008,Meera Iyer,2026-01-13
+LC5245,E1402,Omkaar Randhawa,Credit Risk,Credit Approver,2026-01-14,E1009,REQ-70025,Credit Approver,E1009,Vanya Ghose,2026-01-09
+LC5022,E1029,Faqid Din,Loan Operations,Loan Officer,2026-01-22,E1008,REQ-70018,Loan Officer,E1008,Meera Iyer,2026-01-15
+LC5026,E1033,Yoshita Koshy,Loan Operations,Loan Officer,2026-01-27,E1008,REQ-70022,Loan Officer,E1008,Meera Iyer,2026-01-19
+LC5014,E1021,Laban Pillai,Loan Operations,Loan Officer,2026-02-02,E1008,REQ-70010,Loan Officer,E1008,Meera Iyer,2026-01-29
+LC5017,E1024,Tanmayi Rastogi,Loan Operations,Loan Officer,2026-02-05,E1008,REQ-70013,Loan Officer,E1008,Meera Iyer,2026-01-28

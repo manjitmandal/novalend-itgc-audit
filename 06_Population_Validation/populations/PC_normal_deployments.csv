@@ -1,0 +1,142 @@
+deployment_id,deployment_datetime,component,change_id,change_type,title,developer_id,uat_signoff_by,uat_date,approved_by,approval_date,deployed_by,deployer_department
+DEP-30001,2025-04-15 20:00,Reports,CHG-25054,Normal,New disbursement MIS report,E1583,Watika Koshy,2025-04-10,Kavita Rao,2025-04-14,E1612,IT - Operations
+DEP-30003,2025-04-16 21:30,Interest Accrual,CHG-25062,Normal,Adjust day-count logic for leap year,E1567,Laksh Chacko,2025-04-08,Kavita Rao,2025-04-11,E1612,IT - Operations
+DEP-30004,2025-04-24 22:00,GL Interface,CHG-25135,Normal,Fix GL_INTERFACE file header format,E1582,Mason Vora,2025-04-21,Kavita Rao,2025-04-23,E1614,IT - Operations
+DEP-30005,2025-04-29 22:15,GL Interface,CHG-25064,Normal,Fix GL_INTERFACE file header format,E1592,Radhika Mander,2025-04-22,Kavita Rao,2025-04-25,E1614,IT - Operations
+DEP-30006,2025-05-01 22:30,Reports,CHG-25070,Normal,Fix DPD ageing report filter,E1590,Bahadurjit Goda,2025-04-24,Kavita Rao,2025-04-29,E1614,IT - Operations
+DEP-30007,2025-05-01 22:45,GL Interface,CHG-25085,Normal,Fix GL_INTERFACE file header format,E1583,Rachit Bora,2025-04-23,Kavita Rao,2025-04-28,E1612,IT - Operations
+DEP-30008,2025-05-02 21:30,Reports,CHG-25037,Normal,Add branch column to collections report,E1603,Vansha Baral,2025-04-25,Kavita Rao,2025-04-30,E1613,IT - Operations
+DEP-30009,2025-05-06 20:00,Reports,CHG-25013,Normal,Add branch column to collections report,E1583,Geetika Mittal,2025-05-01,Kavita Rao,2025-05-02,E1614,IT - Operations
+DEP-30010,2025-05-12 22:00,Loan Origination,CHG-25048,Normal,Add co-applicant field,E1576,Falak Hari,2025-05-07,Kavita Rao,2025-05-08,E1613,IT - Operations
+DEP-30011,2025-05-14 22:45,Repayments,CHG-25076,Normal,Correct overdue bucket display,E1579,Anika Khare,2025-05-08,Kavita Rao,2025-05-12,E1613,IT - Operations
+DEP-30012,2025-05-14 22:45,Reports,CHG-25097,Normal,Add branch column to collections report,E1569,Zashil Deshpande,2025-05-12,Kavita Rao,2025-05-13,E1613,IT - Operations
+DEP-30013,2025-05-19 22:15,GL Interface,CHG-25117,Normal,Add new GL code mapping,E1599,Rayaan Tata,2025-05-12,Kavita Rao,2025-05-15,E1614,IT - Operations
+DEP-30014,2025-05-20 21:30,GL Interface,CHG-25004,Normal,Add new GL code mapping,E1580,Rishi Zachariah,2025-05-12,Kavita Rao,2025-05-15,E1612,IT - Operations
+DEP-30015,2025-05-22 20:00,GL Interface,CHG-25047,Normal,Fix GL_INTERFACE file header format,E1579,Tejas Ranganathan,2025-05-15,Kavita Rao,2025-05-20,E1611,IT - Operations
+DEP-30016,2025-05-22 22:45,Loan Origination,CHG-25022,Normal,Add co-applicant field,E1574,Manya Nanda,2025-05-15,Kavita Rao,2025-05-19,E1612,IT - Operations
+DEP-30017,2025-05-23 22:45,Interest Accrual,CHG-25019,Normal,Adjust day-count logic for leap year,E1600,Mason Kibe,2025-05-21,Kavita Rao,2025-05-22,E1612,IT - Operations
+DEP-30018,2025-05-26 20:45,Reports,CHG-25073,Normal,Fix DPD ageing report filter,E1590,Anika Khare,2025-05-20,Kavita Rao,2025-05-21,E1612,IT - Operations
+DEP-30019,2025-05-26 22:30,Repayments,CHG-25150,Normal,Correct overdue bucket display,E1602,Orinder Khare,2025-05-20,Kavita Rao,2025-05-23,E1613,IT - Operations
+DEP-30020,2025-06-02 20:45,Reports,CHG-25122,Normal,Fix DPD ageing report filter,E1573,Devika Bora,2025-05-27,Kavita Rao,2025-05-28,E1611,IT - Operations
+DEP-30021,2025-06-02 22:00,GL Interface,CHG-25026,Normal,Add new GL code mapping,E1579,Ganga Bhavsar,2025-05-28,Kavita Rao,2025-05-29,E1614,IT - Operations
+DEP-30022,2025-06-03 21:45,Reports,CHG-25007,Normal,Fix DPD ageing report filter,E1603,Qasim Jaggi,2025-05-30,Kavita Rao,2025-06-02,E1612,IT - Operations
+DEP-30023,2025-06-05 21:15,Reports,CHG-25142,Normal,Fix DPD ageing report filter,E1586,Gaurav Dass,2025-05-30,Kavita Rao,2025-06-03,E1613,IT - Operations
+DEP-30024,2025-06-05 21:45,Loan Origination,CHG-25126,Normal,Update credit approval limit screen,E1570,Bina Puri,2025-05-30,Kavita Rao,2025-06-02,E1612,IT - Operations
+DEP-30025,2025-06-09 22:30,Reports,CHG-25123,Normal,Fix DPD ageing report filter,E1606,Aishani Rastogi,2025-06-02,Kavita Rao,2025-06-05,E1612,IT - Operations
+DEP-30026,2025-06-10 21:00,Reports,CHG-25023,Normal,Add branch column to collections report,E1569,Udant Varty,2025-06-02,Kavita Rao,2025-06-05,E1614,IT - Operations
+DEP-30027,2025-06-11 22:45,Interest Accrual,CHG-25006,Normal,Improve INTEREST_ACCRUAL job logging,E1602,Jhalak Kumer,2025-06-09,Kavita Rao,2025-06-10,E1611,IT - Operations
+DEP-30028,2025-06-13 22:30,Reports,CHG-25143,Normal,Add branch column to collections report,E1603,Daksha Yohannan,2025-06-10,Kavita Rao,2025-06-12,E1613,IT - Operations
+DEP-30029,2025-06-18 20:15,Loan Origination,CHG-25084,Normal,Fix PAN validation message,E1604,Qasim Jaggi,2025-06-13,Kavita Rao,2025-06-16,E1611,IT - Operations
+DEP-30031,2025-06-26 20:00,Interest Accrual,CHG-25103,Normal,Improve INTEREST_ACCRUAL job logging,E1591,Ranveer Gulati,2025-06-24,Kavita Rao,2025-06-25,E1614,IT - Operations
+DEP-30032,2025-06-26 22:00,Reports,CHG-25045,Normal,Fix DPD ageing report filter,E1569,Ekbal Soman,2025-06-20,Kavita Rao,2025-06-25,E1612,IT - Operations
+DEP-30033,2025-06-27 20:15,Interest Accrual,CHG-25057,Normal,Adjust day-count logic for leap year,E1590,Yashodhara Bhakta,2025-06-23,Kavita Rao,2025-06-26,E1612,IT - Operations
+DEP-30034,2025-06-30 21:45,Reports,CHG-25029,Normal,Fix DPD ageing report filter,E1583,Wishi Soni,2025-06-26,Kavita Rao,2025-06-27,E1583,IT - Application Development
+DEP-30036,2025-07-04 22:15,GL Interface,CHG-25121,Normal,Add new GL code mapping,E1575,Jasmit Sheth,2025-06-30,Kavita Rao,2025-07-02,E1612,IT - Operations
+DEP-30039,2025-07-18 21:00,Loan Origination,CHG-25005,Normal,Add co-applicant field,E1569,Devika Dyal,2025-07-15,Kavita Rao,2025-07-17,E1613,IT - Operations
+DEP-30040,2025-07-18 21:45,Reports,CHG-25132,Normal,Add branch column to collections report,E1003,Vidhi Wali,2025-07-15,Kavita Rao,2025-07-16,E1611,IT - Operations
+DEP-30041,2025-07-18 22:45,GL Interface,CHG-25106,Normal,Fix GL_INTERFACE file header format,E1589,Rachit Bora,2025-07-16,Kavita Rao,2025-07-17,E1611,IT - Operations
+DEP-30042,2025-07-22 22:15,Reports,CHG-25065,Normal,Add branch column to collections report,E1573,Harsh Goswami,2025-07-18,Kavita Rao,2025-07-21,E1614,IT - Operations
+DEP-30043,2025-07-24 20:30,Reports,CHG-25067,Normal,Add branch column to collections report,E1576,Patrick Mody,2025-07-21,Kavita Rao,2025-07-22,E1612,IT - Operations
+DEP-30044,2025-07-24 21:00,Interest Accrual,CHG-25042,Normal,Fix accrual for restructured loans,E1590,Rushil Thaker,2025-07-17,Kavita Rao,2025-07-22,E1611,IT - Operations
+DEP-30045,2025-07-25 22:15,Loan Origination,CHG-25041,Normal,Update credit approval limit screen,E1577,Anay Tandon,2025-07-21,Kavita Rao,2025-07-23,E1614,IT - Operations
+DEP-30046,2025-08-04 22:30,Repayments,CHG-25145,Normal,Fix repayment allocation rounding,E1588,Imaran Karpe,2025-07-28,Kavita Rao,2025-07-31,E1611,IT - Operations
+DEP-30047,2025-08-04 22:45,Reports,CHG-25008,Normal,Fix DPD ageing report filter,E1567,Jason Kunda,2025-07-29,Kavita Rao,2025-07-30,E1613,IT - Operations
+DEP-30048,2025-08-05 22:30,Loan Origination,CHG-25035,Normal,Add co-applicant field,E1591,Yashvi Apte,2025-08-01,Kavita Rao,2025-08-04,E1611,IT - Operations
+DEP-30049,2025-08-07 20:45,Loan Origination,CHG-25099,Normal,Update credit approval limit screen,E1595,Jason Kunda,2025-08-01,Kavita Rao,2025-08-06,E1612,IT - Operations
+DEP-30050,2025-08-08 20:30,Repayments,CHG-25151,Normal,Add part-prepayment option,E1595,Manan Dani,2025-08-04,Kavita Rao,2025-08-05,E1614,IT - Operations
+DEP-30051,2025-08-15 22:45,Reports,CHG-25112,Normal,Fix DPD ageing report filter,E1603,Radhika Barad,2025-08-08,Kavita Rao,2025-08-13,E1611,IT - Operations
+DEP-30052,2025-08-22 21:30,Reports,CHG-25137,Normal,Add branch column to collections report,E1579,Omya Wali,2025-08-15,Kavita Rao,2025-08-19,E1611,IT - Operations
+DEP-30053,2025-08-22 21:45,Repayments,CHG-25044,Normal,Update repayment receipt template,E1582,Zaid Deol,2025-08-19,Kavita Rao,2025-08-21,E1614,IT - Operations
+DEP-30054,2025-08-25 21:45,GL Interface,CHG-25074,Normal,Add new GL code mapping,E1603,Vritti Dass,2025-08-20,Kavita Rao,2025-08-22,E1611,IT - Operations
+DEP-30055,2025-08-25 22:15,GL Interface,CHG-25130,Normal,Fix GL_INTERFACE file header format,E1601,Simon Rau,2025-08-18,Kavita Rao,2025-08-20,E1614,IT - Operations
+DEP-30056,2025-08-27 20:45,GL Interface,CHG-25016,Normal,Add new GL code mapping,E1588,Jhalak Kumer,2025-08-21,Kavita Rao,2025-08-22,E1614,IT - Operations
+DEP-30057,2025-09-01 20:00,Loan Origination,CHG-25136,Normal,Add co-applicant field,E1597,Vyanjana Pingle,2025-08-26,Kavita Rao,2025-08-29,E1614,IT - Operations
+DEP-30058,2025-09-01 22:30,GL Interface,CHG-25102,Normal,Add new GL code mapping,E1571,Rishi Zachariah,2025-08-28,Kavita Rao,2025-08-29,E1614,IT - Operations
+DEP-30059,2025-09-02 20:45,Interest Accrual,CHG-25071,Normal,Adjust day-count logic for leap year,E1588,Simon Rau,2025-08-27,Kavita Rao,2025-08-29,E1614,IT - Operations
+DEP-30060,2025-09-02 21:30,Loan Origination,CHG-25100,Normal,Add co-applicant field,E1606,Jagdish Palla,2025-08-26,Kavita Rao,2025-08-28,E1614,IT - Operations
+DEP-30061,2025-09-03 20:00,GL Interface,CHG-25017,Normal,Fix GL_INTERFACE file header format,E1585,Falak Murthy,2025-08-27,Kavita Rao,2025-08-29,E1614,IT - Operations
+DEP-30062,2025-09-04 20:45,Interest Accrual,CHG-25095,Normal,Adjust day-count logic for leap year,E1573,Manbir Bansal,2025-08-29,Kavita Rao,2025-09-03,E1611,IT - Operations
+DEP-30063,2025-09-04 22:45,Interest Accrual,CHG-25043,Normal,Adjust day-count logic for leap year,E1603,Falak Murthy,2025-09-02,Kavita Rao,2025-09-03,E1612,IT - Operations
+DEP-30064,2025-09-05 22:30,GL Interface,CHG-25031,Normal,Fix GL_INTERFACE file header format,E1568,Laksh Chacko,2025-08-29,Kavita Rao,2025-09-03,E1611,IT - Operations
+DEP-30065,2025-09-08 21:30,Repayments,CHG-25052,Normal,Update repayment receipt template,E1562,Keya Kamdar,2025-09-02,Kavita Rao,2025-09-03,E1611,IT - Operations
+DEP-30066,2025-09-09 21:45,GL Interface,CHG-25146,Normal,Fix GL_INTERFACE file header format,E1581,Vivaan Goel,2025-09-03,Kavita Rao,2025-09-08,E1613,IT - Operations
+DEP-30067,2025-09-10 20:15,GL Interface,CHG-25125,Normal,Add new GL code mapping,E1570,Kashish Gulati,2025-09-04,Kavita Rao,2025-09-05,E1613,IT - Operations
+DEP-30068,2025-09-12 20:00,Repayments,CHG-25058,Normal,Update repayment receipt template,E1587,Bhavika Malhotra,2025-09-05,Kavita Rao,2025-09-09,E1612,IT - Operations
+DEP-30069,2025-09-12 22:40,Interest Accrual,,,,,,,,,E1612,IT - Operations
+DEP-30070,2025-09-12 22:45,Loan Origination,CHG-25018,Normal,Fix PAN validation message,E1562,Manya Nanda,2025-09-08,Kavita Rao,2025-09-10,E1611,IT - Operations
+DEP-30071,2025-09-16 20:30,Reports,CHG-25141,Normal,New disbursement MIS report,E1567,Bhavini Kata,2025-09-10,Kavita Rao,2025-09-11,E1614,IT - Operations
+DEP-30072,2025-09-29 20:15,Interest Accrual,CHG-25127,Normal,Adjust day-count logic for leap year,E1573,Kashish Gulati,2025-09-23,Kavita Rao,2025-09-26,E1611,IT - Operations
+DEP-30073,2025-09-29 21:00,Reports,CHG-25012,Normal,New disbursement MIS report,E1593,Umang Lala,2025-09-25,Kavita Rao,2025-09-26,E1612,IT - Operations
+DEP-30074,2025-10-02 20:30,Reports,CHG-25090,Normal,New disbursement MIS report,E1582,Samarth Pandey,2025-09-25,Kavita Rao,2025-09-30,E1611,IT - Operations
+DEP-30075,2025-10-02 21:45,Reports,CHG-25082,Normal,Add branch column to collections report,E1580,Upadhriti Deshmukh,2025-09-29,Kavita Rao,2025-10-01,E1613,IT - Operations
+DEP-30076,2025-10-06 20:15,Loan Origination,CHG-25063,Normal,Add co-applicant field,E1585,Daksha Yohannan,2025-09-26,Kavita Rao,2025-10-01,E1611,IT - Operations
+DEP-30077,2025-10-08 20:15,Reports,CHG-25098,Normal,Add branch column to collections report,E1569,Eiravati Goswami,2025-10-02,Kavita Rao,2025-10-03,E1611,IT - Operations
+DEP-30078,2025-10-10 22:45,Reports,CHG-25046,Normal,Fix DPD ageing report filter,E1591,Tarak Karan,2025-10-07,Kavita Rao,2025-10-09,E1613,IT - Operations
+DEP-30079,2025-10-14 21:00,Interest Accrual,CHG-25002,Normal,Adjust day-count logic for leap year,E1595,Chandran Goyal,2025-10-07,Kavita Rao,2025-10-09,E1614,IT - Operations
+DEP-30080,2025-10-14 22:45,Loan Origination,CHG-25091,Normal,Fix PAN validation message,E1580,Jagdish Palla,2025-10-07,Kavita Rao,2025-10-10,E1611,IT - Operations
+DEP-30081,2025-10-21 21:15,Reports,CHG-25133,Normal,Fix DPD ageing report filter,E1567,Vidhi Wali,2025-10-15,Kavita Rao,2025-10-16,E1611,IT - Operations
+DEP-30082,2025-10-24 20:15,GL Interface,CHG-25077,Normal,Add new GL code mapping,E1595,Ishita Mander,2025-10-17,Kavita Rao,2025-10-21,E1612,IT - Operations
+DEP-30083,2025-10-24 21:45,Repayments,CHG-25009,Normal,Fix repayment allocation rounding,E1578,Finn Manda,2025-10-20,Kavita Rao,2025-10-23,E1611,IT - Operations
+DEP-30084,2025-10-28 22:15,GL Interface,CHG-25024,Normal,Add new GL code mapping,E1595,,,Kavita Rao,2025-10-24,E1613,IT - Operations
+DEP-30085,2025-11-07 21:30,Repayments,CHG-25114,Normal,Correct overdue bucket display,E1589,Yutika Rana,2025-11-05,Kavita Rao,2025-11-06,E1612,IT - Operations
+DEP-30086,2025-11-10 22:45,Loan Origination,CHG-25060,Normal,Fix PAN validation message,E1588,Eiravati Goswami,2025-11-04,Kavita Rao,2025-11-05,E1611,IT - Operations
+DEP-30087,2025-11-12 21:00,Repayments,CHG-25152,Normal,Update repayment receipt template,E1597,Vamakshi Shenoy,2025-11-04,Kavita Rao,2025-11-07,E1612,IT - Operations
+DEP-30088,2025-11-12 21:15,Repayments,CHG-25116,Normal,Update repayment receipt template,E1594,Xavier Deshpande,2025-11-04,Kavita Rao,2025-11-07,E1613,IT - Operations
+DEP-30089,2025-11-12 21:45,Loan Origination,CHG-25086,Normal,Fix PAN validation message,E1594,Daksha Yohannan,2025-11-06,Kavita Rao,2025-11-11,E1613,IT - Operations
+DEP-30090,2025-11-14 21:30,GL Interface,CHG-25110,Normal,Add new GL code mapping,E1594,Jyoti Yogi,2025-11-12,Kavita Rao,2025-11-13,E1612,IT - Operations
+DEP-30091,2025-11-19 20:15,GL Interface,CHG-25069,Normal,Fix GL_INTERFACE file header format,E1581,Girik Sama,2025-11-13,Kavita Rao,2025-11-17,E1611,IT - Operations
+DEP-30092,2025-11-20 21:00,Interest Accrual,CHG-25036,Normal,Fix accrual for restructured loans,E1581,Rachit Bora,2025-11-14,Kavita Rao,2025-11-17,E1613,IT - Operations
+DEP-30094,2025-11-21 21:30,Interest Accrual,CHG-25015,Normal,Adjust day-count logic for leap year,E1573,Girik Sama,2025-11-14,Kavita Rao,2025-11-18,E1611,IT - Operations
+DEP-30096,2025-12-03 22:15,Interest Accrual,CHG-25120,Normal,Improve INTEREST_ACCRUAL job logging,E1003,Kashish Gulati,2025-11-25,Kavita Rao,2025-11-28,E1612,IT - Operations
+DEP-30097,2025-12-08 22:15,Loan Origination,CHG-25025,Normal,Add co-applicant field,E1600,Imaran Tandon,2025-12-01,Kavita Rao,2025-12-04,E1614,IT - Operations
+DEP-30098,2025-12-10 21:00,GL Interface,CHG-25078,Normal,Fix GL_INTERFACE file header format,E1585,Rachana Raghavan,2025-12-05,Kavita Rao,2025-12-08,E1612,IT - Operations
+DEP-30099,2025-12-16 20:15,Loan Origination,CHG-25088,Normal,Update credit approval limit screen,E1567,Gaurang Chaudhry,2025-12-11,Kavita Rao,2025-12-12,E1614,IT - Operations
+DEP-30102,2025-12-19 21:45,GL Interface,CHG-25083,Normal,Fix GL_INTERFACE file header format,E1569,Ranveer Gulati,2025-12-12,Kavita Rao,2025-12-17,E1612,IT - Operations
+DEP-30103,2025-12-19 22:30,GL Interface,CHG-25075,Normal,Fix GL_INTERFACE file header format,E1604,Riya Devan,2025-12-17,Kavita Rao,2025-12-18,E1613,IT - Operations
+DEP-30104,2025-12-25 21:00,Interest Accrual,CHG-25107,Normal,Improve INTEREST_ACCRUAL job logging,E1572,Ronith Khatri,2025-12-19,Kavita Rao,2025-12-24,E1612,IT - Operations
+DEP-30106,2025-12-26 22:30,Loan Origination,CHG-25108,Normal,Add co-applicant field,E1597,Yatin Batra,2025-12-24,Kavita Rao,2025-12-25,E1612,IT - Operations
+DEP-30107,2025-12-30 21:00,Interest Accrual,CHG-25113,Normal,Adjust day-count logic for leap year,E1576,Mason Kibe,2025-12-23,Kavita Rao,2025-12-25,E1612,IT - Operations
+DEP-30108,2025-12-30 22:45,Repayments,CHG-25038,Normal,Update repayment receipt template,E1600,Manan Dani,2025-12-25,Kavita Rao,2025-12-26,E1614,IT - Operations
+DEP-30109,2025-12-31 20:15,Repayments,CHG-25149,Normal,Fix repayment allocation rounding,E1576,Imaran Karpe,2025-12-25,Kavita Rao,2025-12-26,E1614,IT - Operations
+DEP-30110,2025-12-31 22:45,Reports,CHG-25051,Normal,Fix DPD ageing report filter,E1584,Gaurav Dass,2025-12-26,Kavita Rao,2025-12-30,E1614,IT - Operations
+DEP-30111,2026-01-07 20:30,Repayments,CHG-25059,Normal,Correct overdue bucket display,E1584,Bhavini Kata,2026-01-01,Kavita Rao,2026-01-05,E1614,IT - Operations
+DEP-30112,2026-01-07 20:30,Repayments,CHG-25094,Normal,Add part-prepayment option,E1584,Ekavir Edwin,2025-12-30,Kavita Rao,2026-01-02,E1613,IT - Operations
+DEP-30113,2026-01-07 22:45,GL Interface,CHG-25011,Normal,Fix GL_INTERFACE file header format,E1589,Pavani Sunder,2026-01-01,Kavita Rao,2026-01-02,E1611,IT - Operations
+DEP-30114,2026-01-09 22:15,GL Interface,CHG-25096,Normal,Add new GL code mapping,E1568,Fitan Soman,2026-01-02,Kavita Rao,2026-01-07,E1613,IT - Operations
+DEP-30115,2026-01-09 22:45,Repayments,CHG-25049,Normal,Fix repayment allocation rounding,E1563,Rajata Sarraf,2026-01-06,Kavita Rao,2026-01-07,E1612,IT - Operations
+DEP-30116,2026-01-12 22:30,Reports,CHG-25138,Normal,Add branch column to collections report,E1582,Jason Kunda,2026-01-06,Kavita Rao,2026-01-07,E1612,IT - Operations
+DEP-30117,2026-01-14 21:00,Reports,CHG-25101,Normal,Fix DPD ageing report filter,E1584,Arin Wali,2026-01-09,Kavita Rao,2026-01-12,E1611,IT - Operations
+DEP-30118,2026-01-14 22:45,GL Interface,CHG-25010,Normal,Fix GL_INTERFACE file header format,E1575,Yashasvi Sarna,2026-01-09,Kavita Rao,2026-01-12,E1612,IT - Operations
+DEP-30119,2026-01-16 20:15,Repayments,CHG-25068,Normal,Update repayment receipt template,E1584,Vasudha Pau,2026-01-12,Kavita Rao,2026-01-13,E1611,IT - Operations
+DEP-30120,2026-01-16 20:30,Interest Accrual,CHG-25021,Normal,Adjust day-count logic for leap year,E1577,Rishi Zachariah,2026-01-08,Kavita Rao,2026-01-13,E1611,IT - Operations
+DEP-30121,2026-01-22 22:45,Loan Origination,CHG-25033,Normal,Add co-applicant field,E1592,Oni Lanka,2026-01-15,Kavita Rao,2026-01-20,E1611,IT - Operations
+DEP-30122,2026-01-23 20:15,GL Interface,CHG-25050,Normal,Fix GL_INTERFACE file header format,E1588,Vivaan Goel,2026-01-19,Kavita Rao,2026-01-21,E1614,IT - Operations
+DEP-30123,2026-01-27 21:30,Repayments,CHG-25056,Normal,Add part-prepayment option,E1601,Umang Nayar,2026-01-22,Kavita Rao,2026-01-23,E1612,IT - Operations
+DEP-30124,2026-01-27 21:30,Loan Origination,CHG-25089,Normal,Add co-applicant field,E1583,Zaid Deol,2026-01-19,Kavita Rao,2026-01-22,E1612,IT - Operations
+DEP-30125,2026-01-27 21:45,Reports,CHG-25080,Normal,Fix DPD ageing report filter,E1566,Aishani Rastogi,2026-01-21,Kavita Rao,2026-01-22,E1611,IT - Operations
+DEP-30126,2026-01-30 20:00,Interest Accrual,CHG-25028,Normal,Adjust day-count logic for leap year,E1583,Ranveer Gulati,2026-01-26,Kavita Rao,2026-01-28,E1613,IT - Operations
+DEP-30127,2026-01-30 21:30,Repayments,CHG-25109,Normal,Update repayment receipt template,E1589,Anvi Divan,2026-01-26,Kavita Rao,2026-01-27,E1611,IT - Operations
+DEP-30128,2026-02-03 20:15,Loan Origination,CHG-25087,Normal,Update credit approval limit screen,E1565,Omisha Aggarwal,2026-01-26,Kavita Rao,2026-01-29,E1611,IT - Operations
+DEP-30129,2026-02-04 21:15,GL Interface,CHG-25111,Normal,Fix GL_INTERFACE file header format,E1575,Bhavika Mall,2026-01-28,Kavita Rao,2026-01-30,E1611,IT - Operations
+DEP-30130,2026-02-10 21:30,Reports,CHG-25139,Normal,Fix DPD ageing report filter,E1584,Nachiket Kurian,2026-02-06,Kavita Rao,2026-02-09,E1612,IT - Operations
+DEP-30131,2026-02-12 21:45,Reports,CHG-25115,Normal,Add branch column to collections report,E1587,Ekanta Suri,2026-02-09,Kavita Rao,2026-02-10,E1613,IT - Operations
+DEP-30132,2026-02-13 21:15,Interest Accrual,CHG-25055,Normal,Improve INTEREST_ACCRUAL job logging,E1570,Ishita Mander,2026-02-05,Kavita Rao,2026-02-10,E1611,IT - Operations
+DEP-30133,2026-02-16 21:30,Repayments,CHG-25061,Normal,Fix repayment allocation rounding,E1600,Omisha Aggarwal,2026-02-10,Kavita Rao,2026-02-13,E1613,IT - Operations
+DEP-30134,2026-02-16 22:00,Repayments,CHG-25134,Normal,Update repayment receipt template,E1600,Gaurav Dass,2026-02-09,Kavita Rao,2026-02-12,E1614,IT - Operations
+DEP-30136,2026-02-17 22:00,GL Interface,CHG-25039,Normal,Fix GL_INTERFACE file header format,E1563,Jyoti Yogi,2026-02-10,Kavita Rao,2026-02-12,E1612,IT - Operations
+DEP-30137,2026-02-17 22:15,Loan Origination,CHG-25081,Normal,Update credit approval limit screen,E1575,Udant Varty,2026-02-11,Kavita Rao,2026-02-12,E1614,IT - Operations
+DEP-30138,2026-02-23 21:00,Loan Origination,CHG-25093,Normal,Add co-applicant field,E1573,Yatin Batra,2026-02-19,Kavita Rao,2026-02-20,E1614,IT - Operations
+DEP-30139,2026-02-24 20:45,Loan Origination,CHG-25030,Normal,Fix PAN validation message,E1593,Quincy Behl,2026-02-17,Kavita Rao,2026-02-20,E1614,IT - Operations
+DEP-30140,2026-02-25 21:30,GL Interface,CHG-25128,Normal,Add new GL code mapping,E1563,Vivaan Goel,2026-02-19,Kavita Rao,2026-02-27,E1611,IT - Operations
+DEP-30141,2026-02-26 20:15,Reports,CHG-25034,Normal,New disbursement MIS report,E1593,Sachi Dora,2026-02-19,Kavita Rao,2026-02-23,E1614,IT - Operations
+DEP-30142,2026-03-03 21:15,Repayments,CHG-25119,Normal,Fix repayment allocation rounding,E1568,Daksha Yohannan,2026-02-26,Kavita Rao,2026-03-02,E1612,IT - Operations
+DEP-30143,2026-03-04 20:15,GL Interface,CHG-25124,Normal,Add new GL code mapping,E1594,Simon Rau,2026-02-26,Kavita Rao,2026-03-02,E1613,IT - Operations
+DEP-30144,2026-03-13 22:00,GL Interface,CHG-25129,Normal,Add new GL code mapping,E1606,Laksh Chacko,2026-03-09,Kavita Rao,2026-03-10,E1611,IT - Operations
+DEP-30145,2026-03-17 20:15,Reports,CHG-25072,Normal,Add branch column to collections report,E1574,Samarth Soni,2026-03-10,Kavita Rao,2026-03-13,E1611,IT - Operations
+DEP-30146,2026-03-17 20:30,Repayments,CHG-25003,Normal,Update repayment receipt template,E1591,Samarth Pandey,2026-03-10,Kavita Rao,2026-03-13,E1614,IT - Operations
+DEP-30147,2026-03-17 21:00,Reports,CHG-25147,Normal,Add branch column to collections report,E1580,Wahab Lanka,2026-03-13,Kavita Rao,2026-03-16,E1613,IT - Operations
+DEP-30148,2026-03-18 20:00,Loan Origination,CHG-25032,Normal,Update credit approval limit screen,E1592,Anvi Divan,2026-03-12,Kavita Rao,2026-03-13,E1613,IT - Operations
+DEP-30149,2026-03-18 22:00,Repayments,CHG-25140,Normal,Add part-prepayment option,E1564,Jagdish Palla,2026-03-12,Kavita Rao,2026-03-13,E1613,IT - Operations
+DEP-30151,2026-03-23 20:00,Interest Accrual,CHG-25104,Normal,Fix accrual for restructured loans,E1585,Raagini Sane,2026-03-17,Kavita Rao,2026-03-18,E1614,IT - Operations
+DEP-30152,2026-03-23 22:00,Reports,CHG-25020,Normal,Fix DPD ageing report filter,E1573,Orinder Khare,2026-03-18,Kavita Rao,2026-03-20,E1612,IT - Operations
+DEP-30153,2026-03-24 21:30,Reports,CHG-25148,Normal,New disbursement MIS report,E1574,Samarth Pandey,2026-03-19,Kavita Rao,2026-03-20,E1611,IT - Operations

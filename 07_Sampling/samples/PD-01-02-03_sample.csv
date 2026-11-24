@@ -1,0 +1,9 @@
+sample_no,item_id,phase,item,record_type,approver_name,approver_role,date,reference
+1,SDLC-01,Requirements,Business Requirements Document,Document,Meera Iyer,Head of Loan Operations (business owner),2025-06-13,DO-BRD-v1.2
+2,SDLC-02,Design,Solution Design Document,Document,Arjun Das,Application Development Lead,2025-07-03,DO-SDD-v1.0
+3,SDLC-03,Build,Build start,Milestone,,,2025-07-07,Project plan
+4,SDLC-04,Testing,System Test Summary Report,Document,Arjun Das,Application Development Lead,2025-10-24,DO-STR-v1.0
+5,SDLC-05,Testing,User Acceptance Testing sign-off,Document,Meera Iyer,Head of Loan Operations (business owner),2025-11-20,DO-UAT-SIGNOFF
+6,SDLC-06,Go-live,Go-live approval,Document,Rohan Mehta,Head of IT,2025-11-14,DO-GOLIVE-APPROVAL
+7,SDLC-07,Go-live,Production go-live,Milestone,,,2025-11-17,Release note DO-R1
+8,SDLC-08,Post-implementation,Post-implementation review,Document,Rohan Mehta,Head of IT,2025-12-19,DO-PIR

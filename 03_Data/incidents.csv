@@ -1,0 +1,24 @@
+incident_id,category,related_job,related_run_id,created_date,assigned_to,resolved_date,resolution,status
+INC-40002,Batch Job Failure,INTEREST_ACCRUAL,BAT-20250415-INT,2025-04-16,E1611,2025-04-18,Upstream file not received. Job re-run completed successfully.,Closed
+INC-40003,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20250516,2025-05-21,E1614,2025-05-22,Backup storage volume full. Job re-run completed successfully.,Closed
+INC-40004,Batch Job Failure,GL_INTERFACE,BAT-20250615-GL,2025-06-15,E1612,2025-06-15,Upstream file not received. Job re-run completed successfully.,Closed
+INC-40005,Batch Job Failure,INTEREST_ACCRUAL,BAT-20250623-INT,2025-06-23,E1611,2025-06-25,Database connection timeout. Job re-run completed successfully.,Closed
+INC-40006,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20250702,2025-07-02,E1614,2025-07-04,Backup agent service stopped. Job re-run completed successfully.,Closed
+INC-40007,Batch Job Failure,EOD_REPAY_POST,BAT-20250707-EOD,2025-07-08,E1612,2025-07-08,Database connection timeout. Job re-run completed successfully.,Closed
+INC-40008,Batch Job Failure,INTEREST_ACCRUAL,BAT-20250707-INT,2025-07-08,E1613,2025-07-08,Job server memory error. Job re-run completed successfully.,Closed
+INC-40009,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20250712,2025-07-12,E1611,2025-07-15,Backup agent service stopped. Job re-run completed successfully.,Closed
+INC-40010,Batch Job Failure,GL_INTERFACE,BAT-20250722-GL,2025-07-23,E1611,2025-07-25,Upstream file not received. Job re-run completed successfully.,Closed
+INC-40011,Batch Job Failure,INTEREST_ACCRUAL,BAT-20250731-INT,2025-08-01,E1613,2025-08-05,Upstream file not received. Job re-run completed successfully.,Closed
+INC-40012,Batch Job Failure,GL_INTERFACE,BAT-20250825-GL,2025-08-26,E1613,2025-08-27,Upstream file not received. Job re-run completed successfully.,Closed
+INC-40013,Batch Job Failure,EOD_REPAY_POST,BAT-20250829-EOD,2025-08-29,E1613,2025-09-02,Upstream file not received. Job re-run completed successfully.,Closed
+INC-40014,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20250905,2025-09-08,E1613,2025-09-08,Network timeout to backup server. Job re-run completed successfully.,Closed
+INC-40015,Batch Job Failure,EOD_REPAY_POST,BAT-20250919-EOD,2025-09-22,E1613,2025-09-24,Data validation error on 3 records. Job re-run completed successfully.,Closed
+INC-40016,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20251104,2025-11-04,E1613,2025-11-05,PostgreSQL lock timeout. Job re-run completed successfully.,Closed
+INC-40017,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20251105,2025-11-06,E1612,2025-11-10,Backup agent service stopped. Job re-run completed successfully.,Closed
+INC-40018,Batch Job Failure,INTEREST_ACCRUAL,BAT-20251213-INT,2025-12-15,E1611,2025-12-17,Job server memory error. Job re-run completed successfully.,Closed
+INC-40019,Batch Job Failure,INTEREST_ACCRUAL,BAT-20260105-INT,2026-01-05,E1614,2026-01-06,Job server memory error. Job re-run completed successfully.,Closed
+INC-40020,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20260107,2026-01-07,E1611,2026-01-08,Backup agent service stopped. Job re-run completed successfully.,Closed
+INC-40021,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20260118,2026-01-18,E1612,2026-01-19,Backup agent service stopped. Job re-run completed successfully.,Closed
+INC-40022,Batch Job Failure,INTEREST_ACCRUAL,BAT-20260223-INT,2026-02-24,E1613,2026-02-24,Database connection timeout. Job re-run completed successfully.,Closed
+INC-40023,Backup Failure,LENDCORE_DB_FULL_BACKUP,BKP-20260305,2026-03-06,E1614,2026-03-10,Backup storage volume full. Job re-run completed successfully.,Closed
+INC-40024,Batch Job Failure,INTEREST_ACCRUAL,BAT-20260312-INT,2026-03-12,E1612,2026-03-13,Job server memory error. Job re-run completed successfully.,Closed

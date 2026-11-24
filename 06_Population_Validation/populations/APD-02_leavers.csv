@@ -1,0 +1,39 @@
+employee_id,full_name,department,termination_date,user_id,account_status,disabled_date,last_login_date
+E1490,Luke Mahal,Finance,2025-04-11,LC5333,Disabled,2025-04-11,2025-04-05
+E1061,Rachita Mander,Loan Operations,2025-04-16,LC5054,Disabled,2025-04-17,2025-04-11
+E1226,Sathvik Sant,Loan Operations,2025-05-12,LC5219,Disabled,2025-06-02,2025-05-08
+E1460,Ira Dua,Credit Risk,2025-06-02,LC5303,Disabled,2025-06-03,2025-05-29
+E1205,Nandini Om,Loan Operations,2025-06-12,LC5198,Disabled,2025-06-12,2025-06-11
+E1444,Charles Kakar,Credit Risk,2025-06-20,LC5287,Disabled,2025-06-20,2025-06-20
+E1246,Ekaja Dixit,Loan Operations,2025-07-04,LC5239,Disabled,2025-07-04,2025-06-30
+E1461,Kala Kaul,Credit Risk,2025-07-08,LC5304,Disabled,2025-07-09,2025-07-07
+E1065,Manthan Chaudhary,Loan Operations,2025-07-14,LC5058,Disabled,2025-07-15,2025-07-10
+E1224,Vanya Contractor,Loan Operations,2025-07-18,LC5217,Disabled,2025-07-21,2025-07-18
+E1468,Wriddhish Balan,Credit Risk,2025-08-05,LC5311,Disabled,2025-08-05,2025-08-05
+E1442,Yug Tak,Credit Risk,2025-08-14,LC5285,Disabled,2025-08-14,2025-08-13
+E1452,Bhavna Chanda,Credit Risk,2025-08-15,LC5295,Disabled,2025-08-15,2025-08-12
+E1498,Yashodhara Bhakta,Finance,2025-08-18,LC5341,Disabled,2025-08-18,2025-08-16
+E1047,Zaitra Parikh,Loan Operations,2025-08-22,LC5040,Disabled,2025-08-22,2025-08-22
+E1198,Radhika Chawla,Loan Operations,2025-08-22,LC5191,Disabled,2025-08-22,2025-08-21
+E1221,Frederick Deshpande,Loan Operations,2025-08-26,LC5214,Disabled,2025-08-26,2025-08-20
+E1471,Amol Gala,Credit Risk,2025-09-02,LC5314,Disabled,2025-09-02,2025-08-27
+E1478,Om Wadhwa,Finance,2025-09-05,LC5321,Disabled,2025-09-08,2025-09-05
+E1130,Devika Dhar,Loan Operations,2025-09-16,LC5123,Disabled,2025-09-17,2025-09-13
+E1495,Ganga Bhavsar,Finance,2025-09-16,LC5338,Disabled,2025-09-17,2025-09-16
+E1062,Eesha Hora,Loan Operations,2025-10-06,LC5055,Disabled,2025-10-06,2025-10-01
+E1437,Gaurangi Kaul,Credit Risk,2025-10-14,LC5280,Disabled,2025-10-15,2025-10-11
+E1149,Bishakha Roy,Loan Operations,2025-10-17,LC5142,Disabled,2025-10-17,2025-10-11
+E1079,Kashish Narayanan,Loan Operations,2025-10-21,LC5072,Disabled,2025-10-29,2025-10-17
+E1430,Vaishnavi Sani,Credit Risk,2025-10-24,LC5273,Disabled,2025-10-27,2025-10-20
+E1440,Leela Chaudry,Credit Risk,2025-10-28,LC5283,Disabled,2025-10-28,2025-10-24
+E1250,Orinder Rana,Loan Operations,2025-11-06,LC5243,Disabled,2025-11-06,2025-11-02
+E1427,Urmi Ben,Credit Risk,2025-11-12,LC5270,Disabled,2025-11-12,2025-11-07
+E1456,Dhruv Tak,Credit Risk,2025-11-13,LC5299,Disabled,2025-11-13,2025-11-07
+E1139,Neel Mand,Loan Operations,2025-11-18,LC5132,Active,,2025-12-01
+E1077,Abeer Modi,Loan Operations,2025-12-09,LC5070,Disabled,2025-12-10,2025-12-07
+E1043,Veer Seshadri,Loan Operations,2026-01-01,LC5036,Disabled,2026-01-01,2026-01-01
+E1034,Aryan Tiwari,Loan Operations,2026-01-09,LC5027,Disabled,2026-01-12,2026-01-08
+E1209,Jatin Misra,Loan Operations,2026-01-16,LC5202,Disabled,2026-01-16,2026-01-13
+E1161,Urvi Bassi,Loan Operations,2026-01-29,LC5154,Disabled,2026-01-30,2026-01-24
+E1466,Anya Ramakrishnan,Credit Risk,2026-03-02,LC5309,Disabled,2026-03-03,2026-03-02
+E1019,Rudra Joshi,Loan Operations,2026-03-11,LC5012,Disabled,2026-03-12,2026-03-08

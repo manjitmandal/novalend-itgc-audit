@@ -1,0 +1,654 @@
+employee_id,full_name,department,job_title,manager_id,hire_date,termination_date,employment_status
+E1001,Vikram Shah,Finance,Chief Financial Officer,,2021-02-23,,Active
+E1002,Rohan Mehta,IT - Leadership,Head of IT,,2018-06-26,,Active
+E1003,Arjun Das,IT - Application Development,Application Development Lead,E1002,2021-08-22,,Active
+E1004,Kavita Rao,IT - Operations,Change Manager,E1002,2020-09-12,,Active
+E1005,Priya Nair,IT - Operations,IT Operations Manager,E1002,2018-12-28,,Active
+E1006,Farhan Sheikh,IT - Information Security,Information Security Officer,E1002,2020-12-26,,Active
+E1007,Sneha Kulkarni,HR,HR Manager,,2018-01-08,,Active
+E1008,Meera Iyer,Loan Operations,Head of Loan Operations,,2020-02-07,,Active
+E1009,Vanya Ghose,Credit Risk,Head of Credit Risk,,2020-02-16,,Active
+E1010,Kamya Prashad,Customer Support,Head of Customer Support,,2021-03-19,,Active
+E1011,Dominic Raja,Compliance,Head of Compliance,,2019-04-28,,Active
+E1012,Guneet Bassi,Loan Operations,Senior Loan Officer,E1008,2025-10-13,,Active
+E1013,Siddharth Prashad,Loan Operations,Loan Officer,E1008,2025-05-21,,Active
+E1014,Nisha Bawa,Loan Operations,Senior Loan Officer,E1008,2025-07-18,,Active
+E1015,Yashvi Bhavsar,Loan Operations,Senior Loan Officer,E1008,2025-05-21,,Active
+E1016,Ranbir Bala,Loan Operations,Loan Officer,E1008,2025-04-15,,Active
+E1017,Mitali Sharma,Loan Operations,Loan Officer,E1008,2025-07-09,,Active
+E1018,Zinal Balasubramanian,Loan Operations,Loan Officer,E1008,2025-04-14,,Active
+E1019,Rudra Joshi,Loan Operations,Senior Loan Officer,E1008,2025-10-21,2026-03-11,Terminated
+E1020,Yagnesh Bali,Loan Operations,Loan Officer,E1008,2025-09-29,,Active
+E1021,Laban Pillai,Loan Operations,Loan Officer,E1008,2026-01-30,,Active
+E1022,Triveni Mall,Loan Operations,Loan Officer,E1008,2026-01-05,,Active
+E1023,Patrick Naik,Loan Operations,Loan Officer,E1008,2025-07-16,,Active
+E1024,Tanmayi Rastogi,Loan Operations,Loan Officer,E1008,2026-02-05,,Active
+E1025,Raagini Balakrishnan,Loan Operations,Loan Officer,E1008,2025-05-30,,Active
+E1026,Yash Padmanabhan,Loan Operations,Senior Loan Officer,E1008,2026-01-08,,Active
+E1027,Devika Dyal,Loan Operations,Senior Loan Officer,E1008,2025-05-15,,Active
+E1028,Garima Menon,Loan Operations,Senior Loan Officer,E1008,2025-08-21,,Active
+E1029,Faqid Din,Loan Operations,Loan Officer,E1008,2026-01-21,,Active
+E1030,Anvi Divan,Loan Operations,Senior Loan Officer,E1008,2025-12-29,,Active
+E1031,Indali Zacharia,Loan Operations,Loan Officer,E1008,2025-10-22,,Active
+E1032,Yadavi Rajagopal,Loan Operations,Senior Loan Officer,E1008,2026-01-14,,Active
+E1033,Yoshita Koshy,Loan Operations,Loan Officer,E1008,2026-01-26,,Active
+E1034,Aryan Tiwari,Loan Operations,Loan Officer,E1008,2025-09-17,2026-01-09,Terminated
+E1035,Bachittar Jha,Loan Operations,Loan Officer,E1008,2025-09-24,,Active
+E1036,Samarth Kala,Loan Operations,Senior Loan Officer,E1008,2022-02-09,,Active
+E1037,Sachi Dora,Loan Operations,Senior Loan Officer,E1008,2017-10-24,,Active
+E1038,Yashvi Apte,Loan Operations,Senior Loan Officer,E1008,2019-04-23,,Active
+E1039,Radha Hayre,Loan Operations,Loan Officer,E1008,2016-11-08,,Active
+E1040,Orinder Khare,Loan Operations,Senior Loan Officer,E1008,2023-06-26,,Active
+E1041,Aashi Deshpande,Loan Operations,Senior Loan Officer,E1008,2022-02-15,,Active
+E1042,Januja Dora,Loan Operations,Loan Officer,E1008,2022-05-02,,Active
+E1043,Veer Seshadri,Loan Operations,Senior Loan Officer,E1008,2016-01-05,2026-01-01,Terminated
+E1044,Faras Uppal,Loan Operations,Loan Officer,E1008,2024-03-12,,Active
+E1045,Wridesh Sahota,Loan Operations,Senior Loan Officer,E1008,2020-04-23,,Active
+E1046,Vedant Anne,Loan Operations,Senior Loan Officer,E1008,2018-10-09,,Active
+E1047,Zaitra Parikh,Loan Operations,Loan Officer,E1008,2022-08-08,2025-08-22,Terminated
+E1048,Zansi Soman,Loan Operations,Senior Loan Officer,E1008,2021-09-03,,Active
+E1049,Abha Bhavsar,Loan Operations,Loan Officer,E1008,2023-09-19,,Active
+E1050,Damyanti Tripathi,Loan Operations,Loan Officer,E1008,2018-04-25,,Active
+E1051,Prisha Sahni,Loan Operations,Loan Officer,E1008,2020-12-24,,Active
+E1052,Ganga Dalal,Loan Operations,Loan Officer,E1008,2018-11-27,,Active
+E1053,Nachiket Kurian,Loan Operations,Senior Loan Officer,E1008,2017-01-25,,Active
+E1054,Gaurika Kata,Loan Operations,Loan Officer,E1008,2018-03-14,,Active
+E1055,Warhi Goswami,Loan Operations,Loan Officer,E1008,2023-08-22,,Active
+E1056,Harsh Goswami,Loan Operations,Senior Loan Officer,E1008,2019-07-17,,Active
+E1057,Inaya Bhasin,Loan Operations,Senior Loan Officer,E1008,2024-03-12,,Active
+E1058,Jairaj Nayar,Loan Operations,Loan Officer,E1008,2020-01-31,,Active
+E1059,Umang Lala,Loan Operations,Senior Loan Officer,E1008,2018-07-30,,Active
+E1060,Reyansh Bhagat,Loan Operations,Loan Officer,E1008,2024-11-21,,Active
+E1061,Rachita Mander,Loan Operations,Loan Officer,E1008,2016-11-16,2025-04-16,Terminated
+E1062,Eesha Hora,Loan Operations,Senior Loan Officer,E1008,2023-07-04,2025-10-06,Terminated
+E1063,Tara Bhagat,Loan Operations,Loan Officer,E1008,2019-07-18,,Active
+E1064,Arin Wali,Loan Operations,Senior Loan Officer,E1008,2019-12-19,,Active
+E1065,Manthan Chaudhary,Loan Operations,Senior Loan Officer,E1008,2020-02-24,2025-07-14,Terminated
+E1066,Mugdha Palla,Loan Operations,Loan Officer,E1008,2018-12-03,,Active
+E1067,Chandran Chakrabarti,Loan Operations,Senior Loan Officer,E1008,2017-09-06,,Active
+E1068,Gaurang Chaudhry,Loan Operations,Senior Loan Officer,E1008,2021-02-04,,Active
+E1069,Vyanjana Pingle,Loan Operations,Senior Loan Officer,E1008,2022-12-08,,Active
+E1070,Zehaan Contractor,Loan Operations,Loan Officer,E1008,2019-09-20,,Active
+E1071,Jeevika Venkataraman,Loan Operations,Loan Officer,E1008,2018-10-19,,Active
+E1072,Kai Sharaf,Loan Operations,Loan Officer,E1008,2018-11-23,,Active
+E1073,Isaiah Padmanabhan,Loan Operations,Loan Officer,E1008,2019-10-03,,Active
+E1074,Aashi Dash,Loan Operations,Loan Officer,E1008,2024-04-17,,Active
+E1075,Aarav Nadig,Loan Operations,Loan Officer,E1008,2023-04-25,,Active
+E1076,Aadhya Bath,Loan Operations,Loan Officer,E1008,2023-01-13,,Active
+E1077,Abeer Modi,Loan Operations,Loan Officer,E1008,2017-02-23,2025-12-09,Terminated
+E1078,Radhika Barad,Loan Operations,Senior Loan Officer,E1008,2018-12-14,,Active
+E1079,Kashish Narayanan,Loan Operations,Loan Officer,E1008,2024-11-25,2025-10-21,Terminated
+E1080,Krish Deshpande,Loan Operations,Loan Officer,E1008,2016-02-02,,Active
+E1081,Wahab Lanka,Loan Operations,Senior Loan Officer,E1008,2025-01-31,,Active
+E1082,Wishi Soni,Loan Operations,Senior Loan Officer,E1008,2024-07-02,,Active
+E1083,Qasim Jaggi,Loan Operations,Senior Loan Officer,E1008,2018-12-11,,Active
+E1084,Ikbal Sachdeva,Loan Operations,Loan Officer,E1008,2023-03-08,,Active
+E1085,Manan Dani,Loan Operations,Senior Loan Officer,E1008,2023-05-01,,Active
+E1086,Anika Khare,Loan Operations,Senior Loan Officer,E1008,2022-07-25,,Active
+E1087,Omya Wali,Loan Operations,Senior Loan Officer,E1008,2024-01-10,,Active
+E1088,Keya Kamdar,Loan Operations,Senior Loan Officer,E1008,2022-04-22,,Active
+E1089,Chakradev Varma,Loan Operations,Loan Officer,E1008,2019-07-29,,Active
+E1090,Ekanta Suri,Loan Operations,Senior Loan Officer,E1008,2019-02-11,,Active
+E1091,Mahika Ahuja,Loan Operations,Loan Officer,E1008,2023-03-02,,Active
+E1092,Chandani Deshpande,Loan Operations,Loan Officer,E1008,2020-01-07,,Active
+E1093,Samarth Pandey,Loan Operations,Senior Loan Officer,E1008,2024-06-18,,Active
+E1094,Amrita Mani,Loan Operations,Loan Officer,E1008,2022-03-18,,Active
+E1095,Jonathan Borah,Loan Operations,Loan Officer,E1008,2023-10-27,,Active
+E1096,Aditya Dewan,Loan Operations,Senior Loan Officer,E1008,2023-05-25,,Active
+E1097,Mitesh Sundaram,Loan Operations,Senior Loan Officer,E1008,2019-12-06,,Active
+E1098,Gopal Behl,Loan Operations,Loan Officer,E1008,2016-07-22,,Active
+E1099,Mitesh Choudhury,Loan Operations,Senior Loan Officer,E1008,2024-10-03,,Active
+E1100,Ekani Jani,Loan Operations,Loan Officer,E1008,2016-12-30,,Active
+E1101,Jeremiah Murthy,Loan Operations,Senior Loan Officer,E1008,2021-11-22,,Active
+E1102,Watika Koshy,Loan Operations,Senior Loan Officer,E1008,2021-07-09,,Active
+E1103,Falak Hari,Loan Operations,Senior Loan Officer,E1008,2017-01-12,,Active
+E1104,Daksha Yohannan,Loan Operations,Senior Loan Officer,E1008,2024-01-19,,Active
+E1105,Damini Murthy,Loan Operations,Loan Officer,E1008,2021-10-28,,Active
+E1106,Upadhriti Pillai,Loan Operations,Loan Officer,E1008,2025-03-19,,Active
+E1107,Bahadurjit Goda,Loan Operations,Senior Loan Officer,E1008,2023-11-02,,Active
+E1108,Jagat Handa,Loan Operations,Senior Loan Officer,E1008,2019-11-15,,Active
+E1109,Geetika Mittal,Loan Operations,Senior Loan Officer,E1008,2023-07-27,,Active
+E1110,Samarth Soni,Loan Operations,Senior Loan Officer,E1008,2016-01-08,,Active
+E1111,Unnati Dada,Loan Operations,Senior Loan Officer,E1008,2023-04-17,,Active
+E1112,Ekanta Seshadri,Loan Operations,Loan Officer,E1008,2016-07-08,,Active
+E1113,Jagdish Palla,Loan Operations,Senior Loan Officer,E1008,2024-01-26,,Active
+E1114,Ishaan Nigam,Loan Operations,Senior Loan Officer,E1008,2019-05-30,,Active
+E1115,Anirudh Andra,Loan Operations,Senior Loan Officer,E1008,2024-03-14,,Active
+E1116,Fariq Mukhopadhyay,Loan Operations,Senior Loan Officer,E1008,2019-09-20,,Active
+E1117,Edhitha Deshpande,Loan Operations,Loan Officer,E1008,2023-04-07,,Active
+E1118,Sudiksha Varty,Loan Operations,Loan Officer,E1008,2017-09-22,,Active
+E1119,Siddharth Basak,Loan Operations,Loan Officer,E1008,2018-12-24,,Active
+E1120,Kiaan Wali,Loan Operations,Senior Loan Officer,E1008,2023-05-26,,Active
+E1121,Gauri Krishnan,Loan Operations,Loan Officer,E1008,2018-01-29,,Active
+E1122,Jagdish Das,Loan Operations,Loan Officer,E1008,2018-08-31,,Active
+E1123,Quincy Behl,Loan Operations,Senior Loan Officer,E1008,2024-02-27,,Active
+E1124,Harrison Dhawan,Loan Operations,Loan Officer,E1008,2017-08-29,,Active
+E1125,Eiravati Goswami,Loan Operations,Senior Loan Officer,E1008,2023-09-11,,Active
+E1126,Pratyush Ranganathan,Loan Operations,Senior Loan Officer,E1008,2025-03-27,,Active
+E1127,Jai Mandal,Loan Operations,Loan Officer,E1008,2018-09-07,,Active
+E1128,Ojas Handa,Loan Operations,Loan Officer,E1008,2020-09-14,,Active
+E1129,Rajeshri Barad,Loan Operations,Loan Officer,E1008,2020-03-19,,Active
+E1130,Devika Dhar,Loan Operations,Loan Officer,E1008,2018-05-07,2025-09-16,Terminated
+E1131,Harish Saini,Loan Operations,Loan Officer,E1008,2021-10-13,,Active
+E1132,Raagini Soni,Loan Operations,Senior Loan Officer,E1008,2019-08-14,,Active
+E1133,Dayita Menon,Loan Operations,Senior Loan Officer,E1008,2019-04-12,,Active
+E1134,Kamya Loyal,Loan Operations,Loan Officer,E1008,2016-01-28,,Active
+E1135,Gavin Parekh,Loan Operations,Loan Officer,E1008,2019-05-13,,Active
+E1136,Xavier Sarna,Loan Operations,Loan Officer,E1008,2016-04-08,,Active
+E1137,Bhavini Kata,Loan Operations,Senior Loan Officer,E1008,2017-09-01,,Active
+E1138,Sai Koshy,Loan Operations,Loan Officer,E1008,2019-03-28,,Active
+E1139,Neel Mand,Loan Operations,Loan Officer,E1008,2017-07-27,2025-11-18,Terminated
+E1140,Anamika Kurian,Loan Operations,Loan Officer,E1008,2017-07-27,,Active
+E1141,Siddharth Mital,Loan Operations,Loan Officer,E1008,2024-07-17,,Active
+E1142,Liam Balay,Loan Operations,Loan Officer,E1008,2017-01-30,,Active
+E1143,Hardik Luthra,Loan Operations,Loan Officer,E1008,2018-04-16,,Active
+E1144,Ekantika Pandya,Loan Operations,Loan Officer,E1008,2017-04-05,,Active
+E1145,Imaran Tandon,Loan Operations,Senior Loan Officer,E1008,2018-04-18,,Active
+E1146,Vasudha Pau,Loan Operations,Senior Loan Officer,E1008,2017-05-31,,Active
+E1147,Gaurav Dass,Loan Operations,Senior Loan Officer,E1008,2024-01-24,,Active
+E1148,Gauri Venkataraman,Loan Operations,Loan Officer,E1008,2021-07-28,,Active
+E1149,Bishakha Roy,Loan Operations,Loan Officer,E1008,2022-03-25,2025-10-17,Terminated
+E1150,Qasim Patel,Loan Operations,Loan Officer,E1008,2022-12-13,,Active
+E1151,Udarsh Palla,Loan Operations,Loan Officer,E1008,2019-06-04,,Active
+E1152,Yutika Rana,Loan Operations,Senior Loan Officer,E1008,2019-06-11,,Active
+E1153,Ojasvi Dhawan,Loan Operations,Loan Officer,E1008,2024-10-28,,Active
+E1154,Manya Nanda,Loan Operations,Senior Loan Officer,E1008,2022-05-12,,Active
+E1155,Rajata Sarraf,Loan Operations,Senior Loan Officer,E1008,2020-02-18,,Active
+E1156,Yochana Kadakia,Loan Operations,Loan Officer,E1008,2016-05-19,,Active
+E1157,Zashil Khalsa,Loan Operations,Loan Officer,E1008,2023-06-28,,Active
+E1158,Charan Sharma,Loan Operations,Loan Officer,E1008,2017-05-03,,Active
+E1159,Imaran Karpe,Loan Operations,Senior Loan Officer,E1008,2025-03-18,,Active
+E1160,Aashi Narula,Loan Operations,Loan Officer,E1008,2023-05-03,,Active
+E1161,Urvi Bassi,Loan Operations,Loan Officer,E1008,2022-05-04,2026-01-29,Terminated
+E1162,Upadhriti Deshmukh,Loan Operations,Senior Loan Officer,E1008,2021-05-06,,Active
+E1163,Zaid Deol,Loan Operations,Senior Loan Officer,E1008,2017-04-24,,Active
+E1164,Aarna Handa,Loan Operations,Senior Loan Officer,E1008,2024-10-02,,Active
+E1165,Suhani Chand,Loan Operations,Loan Officer,E1008,2017-06-12,,Active
+E1166,Rehaan Prakash,Loan Operations,Loan Officer,E1008,2019-12-06,,Active
+E1167,Oni Lanka,Loan Operations,Senior Loan Officer,E1008,2017-04-12,,Active
+E1168,Yashawini Khurana,Loan Operations,Loan Officer,E1008,2017-03-03,,Active
+E1169,Aishani Rastogi,Loan Operations,Senior Loan Officer,E1008,2016-02-10,,Active
+E1170,Pahal Sodhi,Loan Operations,Senior Loan Officer,E1008,2016-11-24,,Active
+E1171,Netra Grewal,Loan Operations,Senior Loan Officer,E1008,2023-09-18,,Active
+E1172,Siya Gala,Loan Operations,Loan Officer,E1008,2019-07-25,,Active
+E1173,Oni Agarwal,Loan Operations,Senior Loan Officer,E1008,2016-01-22,,Active
+E1174,Bakhshi D’Alia,Loan Operations,Loan Officer,E1008,2021-10-18,,Active
+E1175,Ekani Munshi,Loan Operations,Loan Officer,E1008,2022-05-02,,Active
+E1176,Patrick Mody,Loan Operations,Senior Loan Officer,E1008,2016-06-24,,Active
+E1177,Chavvi Natt,Loan Operations,Loan Officer,E1008,2023-05-04,,Active
+E1178,Bhavika Malhotra,Loan Operations,Senior Loan Officer,E1008,2021-12-22,,Active
+E1179,Bina Puri,Loan Operations,Senior Loan Officer,E1008,2023-06-01,,Active
+E1180,Charita De,Loan Operations,Loan Officer,E1008,2018-11-01,,Active
+E1181,Pranit Saran,Loan Operations,Loan Officer,E1008,2017-05-09,,Active
+E1182,Wridesh Taneja,Loan Operations,Loan Officer,E1008,2021-03-11,,Active
+E1183,Ubika Borra,Loan Operations,Loan Officer,E1008,2022-08-05,,Active
+E1184,Ekbal Soman,Loan Operations,Senior Loan Officer,E1008,2024-04-23,,Active
+E1185,Oliver Deep,Loan Operations,Loan Officer,E1008,2024-12-17,,Active
+E1186,Dev Karpe,Loan Operations,Loan Officer,E1008,2017-08-15,,Active
+E1187,Sathvik Bobal,Loan Operations,Loan Officer,E1008,2019-07-31,,Active
+E1188,Yasti Dara,Loan Operations,Senior Loan Officer,E1008,2024-05-28,,Active
+E1189,Ishwar Nadkarni,Loan Operations,Senior Loan Officer,E1008,2018-01-15,,Active
+E1190,Jai Aggarwal,Loan Operations,Loan Officer,E1008,2021-06-11,,Active
+E1191,Ikbal Kade,Loan Operations,Loan Officer,E1008,2019-03-07,,Active
+E1192,Riya Gopal,Loan Operations,Loan Officer,E1008,2017-11-16,,Active
+E1193,Tanish Bawa,Loan Operations,Loan Officer,E1008,2022-08-05,,Active
+E1194,Yash Verma,Loan Operations,Loan Officer,E1008,2020-11-26,,Active
+E1195,Inaya Nigam,Loan Operations,Loan Officer,E1008,2024-01-03,,Active
+E1196,Siddharth Pathak,Loan Operations,Senior Loan Officer,E1008,2023-02-24,,Active
+E1197,Aayush Kala,Loan Operations,Loan Officer,E1008,2017-04-26,,Active
+E1198,Radhika Chawla,Loan Operations,Senior Loan Officer,E1008,2020-09-18,2025-08-22,Terminated
+E1199,Kai Murty,Loan Operations,Senior Loan Officer,E1008,2022-08-29,,Active
+E1200,Reva Majumdar,Loan Operations,Loan Officer,E1008,2021-05-05,,Active
+E1201,Jason Kunda,Loan Operations,Senior Loan Officer,E1008,2024-12-09,,Active
+E1202,Mitali Madan,Loan Operations,Loan Officer,E1008,2019-04-24,,Active
+E1203,Udant Varty,Loan Operations,Senior Loan Officer,E1008,2020-03-05,,Active
+E1204,Harrison Ghose,Loan Operations,Loan Officer,E1008,2016-08-25,,Active
+E1205,Nandini Om,Loan Operations,Senior Loan Officer,E1008,2019-12-30,2025-06-12,Terminated
+E1206,Pushti Ganesh,Loan Operations,Senior Loan Officer,E1008,2018-09-24,,Active
+E1207,Anay Tandon,Loan Operations,Senior Loan Officer,E1008,2020-12-10,,Active
+E1208,Upasna Bhatt,Loan Operations,Loan Officer,E1008,2022-04-21,,Active
+E1209,Jatin Misra,Loan Operations,Senior Loan Officer,E1008,2017-10-20,2026-01-16,Terminated
+E1210,Charita Kuruvilla,Loan Operations,Loan Officer,E1008,2018-10-09,,Active
+E1211,Devika Bora,Loan Operations,Senior Loan Officer,E1008,2017-10-25,,Active
+E1212,Xavier Deshpande,Loan Operations,Senior Loan Officer,E1008,2016-06-15,,Active
+E1213,Varsha Butala,Loan Operations,Loan Officer,E1008,2018-11-21,,Active
+E1214,Radhika Sur,Loan Operations,Loan Officer,E1008,2024-12-19,,Active
+E1215,Aarnav Kaur,Loan Operations,Senior Loan Officer,E1008,2019-05-17,,Active
+E1216,Unnati Dada,Loan Operations,Loan Officer,E1008,2017-07-25,,Active
+E1217,Balendra Patla,Loan Operations,Loan Officer,E1008,2019-06-10,,Active
+E1218,Chameli Acharya,Loan Operations,Senior Loan Officer,E1008,2019-01-08,,Active
+E1219,Vasudha Warrior,Loan Operations,Senior Loan Officer,E1008,2023-02-02,,Active
+E1220,Vansha Baral,Loan Operations,Senior Loan Officer,E1008,2019-12-23,,Active
+E1221,Frederick Deshpande,Loan Operations,Senior Loan Officer,E1008,2017-03-27,2025-08-26,Terminated
+E1222,Rudra Sundaram,Loan Operations,Loan Officer,E1008,2021-10-19,,Active
+E1223,Vidhi Wali,Loan Operations,Senior Loan Officer,E1008,2020-02-11,,Active
+E1224,Vanya Contractor,Loan Operations,Loan Officer,E1008,2017-01-04,2025-07-18,Terminated
+E1225,Yatin Batra,Loan Operations,Senior Loan Officer,E1008,2020-10-09,,Active
+E1226,Sathvik Sant,Loan Operations,Loan Officer,E1008,2021-10-29,2025-05-12,Terminated
+E1227,Omisha Aggarwal,Loan Operations,Senior Loan Officer,E1008,2023-08-02,,Active
+E1228,Dominic Rattan,Loan Operations,Senior Loan Officer,E1008,2020-08-13,,Active
+E1229,Chaaya Toor,Loan Operations,Senior Loan Officer,E1008,2018-01-31,,Active
+E1230,Patrick Chand,Loan Operations,Senior Loan Officer,E1008,2018-07-11,,Active
+E1231,Henry Kulkarni,Loan Operations,Loan Officer,E1008,2023-08-08,,Active
+E1232,Tarak Karan,Loan Operations,Senior Loan Officer,E1008,2021-10-15,,Active
+E1233,Tanish Ravi,Loan Operations,Senior Loan Officer,E1008,2017-02-06,,Active
+E1234,Ojas Mann,Loan Operations,Loan Officer,E1008,2022-07-25,,Active
+E1235,Advay Balay,Loan Operations,Loan Officer,E1008,2023-09-08,,Active
+E1236,Zashil Deshpande,Loan Operations,Senior Loan Officer,E1008,2020-05-26,,Active
+E1237,Vamakshi Shenoy,Loan Operations,Senior Loan Officer,E1008,2022-11-16,,Active
+E1238,Ekiya Dhingra,Loan Operations,Senior Loan Officer,E1008,2023-04-26,,Active
+E1239,Patrick Tailor,Loan Operations,Senior Loan Officer,E1008,2020-12-10,,Active
+E1240,Triveni Dasgupta,Loan Operations,Loan Officer,E1008,2021-10-04,,Active
+E1241,Finn Manda,Loan Operations,Senior Loan Officer,E1008,2016-06-30,,Active
+E1242,Nitesh Kar,Loan Operations,Loan Officer,E1008,2018-08-29,,Active
+E1243,Umang Nayar,Loan Operations,Senior Loan Officer,E1008,2016-08-01,,Active
+E1244,Nathaniel Warrior,Loan Operations,Loan Officer,E1008,2024-05-08,,Active
+E1245,Megha Dhawan,Loan Operations,Loan Officer,E1008,2017-03-28,,Active
+E1246,Ekaja Dixit,Loan Operations,Senior Loan Officer,E1008,2016-10-11,2025-07-04,Terminated
+E1247,Warhi Mangat,Loan Operations,Loan Officer,E1008,2021-04-29,,Active
+E1248,Ekavir Edwin,Loan Operations,Senior Loan Officer,E1008,2019-12-11,,Active
+E1249,Aadi Kakar,Loan Operations,Loan Officer,E1008,2024-01-26,,Active
+E1250,Orinder Rana,Loan Operations,Loan Officer,E1008,2020-07-13,2025-11-06,Terminated
+E1251,Chaitanya Andra,Loan Operations,Senior Loan Officer,E1008,2020-07-10,,Active
+E1252,Triya Baral,Customer Support,Customer Support Executive,E1010,2025-07-08,,Active
+E1253,Aashi Varma,Customer Support,Customer Support Executive,E1010,2025-11-19,,Active
+E1254,Raghav Agrawal,Customer Support,Customer Support Executive,E1010,2025-10-21,,Active
+E1255,Onveer Shroff,Customer Support,Customer Support Executive,E1010,2025-10-09,,Active
+E1256,Jonathan Varkey,Customer Support,Customer Support Executive,E1010,2025-08-14,,Active
+E1257,Shivansh Samra,Customer Support,Customer Support Executive,E1010,2026-01-09,,Active
+E1258,Warjas Sood,Customer Support,Customer Support Executive,E1010,2025-10-13,,Active
+E1259,Nicholas Hayer,Customer Support,Customer Support Executive,E1010,2025-10-22,,Active
+E1260,Abha Sur,Customer Support,Customer Support Executive,E1010,2025-11-03,,Active
+E1261,Avi Mohanty,Customer Support,Customer Support Executive,E1010,2025-12-31,,Active
+E1262,Devansh Narayanan,Customer Support,Customer Support Executive,E1010,2025-10-24,,Active
+E1263,Ayush Menon,Customer Support,Customer Support Executive,E1010,2025-04-21,,Active
+E1264,Gaurang Hayre,Customer Support,Customer Support Executive,E1010,2025-06-24,,Active
+E1265,Ekaja Dayal,Customer Support,Customer Support Executive,E1010,2025-04-01,,Active
+E1266,Sai Chakrabarti,Customer Support,Customer Support Executive,E1010,2025-04-18,,Active
+E1267,Nathaniel Sengupta,Customer Support,Customer Support Executive,E1010,2016-09-08,,Active
+E1268,Forum Narula,Customer Support,Customer Support Executive,E1010,2019-07-08,,Active
+E1269,Abdul Kota,Customer Support,Customer Support Executive,E1010,2017-12-25,,Active
+E1270,Orinder Grewal,Customer Support,Customer Support Executive,E1010,2023-10-26,,Active
+E1271,Simon Raman,Customer Support,Customer Support Executive,E1010,2019-05-29,,Active
+E1272,Indrajit Patla,Customer Support,Customer Support Executive,E1010,2024-10-22,,Active
+E1273,Lopa Grover,Customer Support,Customer Support Executive,E1010,2022-09-28,,Active
+E1274,Wakeeta Luthra,Customer Support,Customer Support Executive,E1010,2021-11-17,,Active
+E1275,Dhriti Devi,Customer Support,Customer Support Executive,E1010,2022-04-20,,Active
+E1276,Forum Dada,Customer Support,Customer Support Executive,E1010,2020-03-25,,Active
+E1277,Alexander Hayre,Customer Support,Customer Support Executive,E1010,2022-08-30,,Active
+E1278,Arya Cheema,Customer Support,Customer Support Executive,E1010,2017-06-22,,Active
+E1279,Nihal Balakrishnan,Customer Support,Customer Support Executive,E1010,2018-01-10,,Active
+E1280,Azaan Dayal,Customer Support,Customer Support Executive,E1010,2019-06-19,,Active
+E1281,Ekiya Baral,Customer Support,Customer Support Executive,E1010,2021-07-29,,Active
+E1282,Azad Baria,Customer Support,Customer Support Executive,E1010,2021-03-17,,Active
+E1283,Yachana Rao,Customer Support,Customer Support Executive,E1010,2019-12-26,,Active
+E1284,Gauri Kari,Customer Support,Customer Support Executive,E1010,2025-01-22,,Active
+E1285,Anvi Saini,Customer Support,Customer Support Executive,E1010,2024-07-29,,Active
+E1286,Advik Bava,Customer Support,Customer Support Executive,E1010,2020-01-07,,Active
+E1287,Jyoti Wali,Customer Support,Customer Support Executive,E1010,2018-08-01,,Active
+E1288,Devansh Hari,Customer Support,Customer Support Executive,E1010,2022-10-26,,Active
+E1289,Vrinda Upadhyay,Customer Support,Customer Support Executive,E1010,2022-04-18,,Active
+E1290,Ekaja Swamy,Customer Support,Customer Support Executive,E1010,2023-11-24,,Active
+E1291,Qushi Nair,Customer Support,Customer Support Executive,E1010,2021-09-29,,Active
+E1292,Bishakha Shanker,Customer Support,Customer Support Executive,E1010,2016-07-26,,Active
+E1293,Jagat Hora,Customer Support,Customer Support Executive,E1010,2022-09-13,,Active
+E1294,Arunima Vasa,Customer Support,Customer Support Executive,E1010,2016-02-12,,Active
+E1295,Anvi Virk,Customer Support,Customer Support Executive,E1010,2017-11-24,,Active
+E1296,Finn Bhalla,Customer Support,Customer Support Executive,E1010,2018-05-14,,Active
+E1297,Zansi Chada,Customer Support,Customer Support Executive,E1010,2018-01-18,,Active
+E1298,Anirudh Lalla,Customer Support,Customer Support Executive,E1010,2018-06-01,,Active
+E1299,Aahana Tara,Customer Support,Customer Support Executive,E1010,2021-05-31,,Active
+E1300,Janani Bhandari,Customer Support,Customer Support Executive,E1010,2021-11-08,,Active
+E1301,Sanaya Guha,Customer Support,Customer Support Executive,E1010,2025-01-17,,Active
+E1302,Jack Oza,Customer Support,Customer Support Executive,E1010,2016-04-11,,Active
+E1303,Rajata Menon,Customer Support,Customer Support Executive,E1010,2020-01-23,,Active
+E1304,Irya Karnik,Customer Support,Customer Support Executive,E1010,2016-01-22,,Active
+E1305,Devika Borah,Customer Support,Customer Support Executive,E1010,2016-02-23,,Active
+E1306,Ria Chandran,Customer Support,Customer Support Executive,E1010,2023-04-05,,Active
+E1307,Naksh Nori,Customer Support,Customer Support Executive,E1010,2025-03-04,,Active
+E1308,Manthan Sen,Customer Support,Customer Support Executive,E1010,2024-04-08,,Active
+E1309,Aayush Ahluwalia,Customer Support,Customer Support Executive,E1010,2020-02-14,,Active
+E1310,Karan Mani,Customer Support,Customer Support Executive,E1010,2019-02-07,,Active
+E1311,Chameli Rattan,Customer Support,Customer Support Executive,E1010,2017-05-18,,Active
+E1312,Hemangini Warrior,Customer Support,Customer Support Executive,E1010,2022-09-07,,Active
+E1313,William Kapoor,Customer Support,Customer Support Executive,E1010,2018-07-04,,Active
+E1314,Arjun Seshadri,Customer Support,Customer Support Executive,E1010,2017-02-22,,Active
+E1315,Vasudha Pingle,Customer Support,Customer Support Executive,E1010,2023-11-28,,Active
+E1316,Krisha Andra,Customer Support,Customer Support Executive,E1010,2023-06-14,,Active
+E1317,Abeer Chowdhury,Customer Support,Customer Support Executive,E1010,2017-06-29,,Active
+E1318,Jalsa Ravel,Customer Support,Customer Support Executive,E1010,2017-11-21,,Active
+E1319,Zayan Chokshi,Customer Support,Customer Support Executive,E1010,2016-03-14,,Active
+E1320,Tristan Varughese,Customer Support,Customer Support Executive,E1010,2022-08-17,,Active
+E1321,Anirudh Rana,Customer Support,Customer Support Executive,E1010,2021-04-07,,Active
+E1322,Ekaja Nagi,Customer Support,Customer Support Executive,E1010,2017-08-17,,Active
+E1323,Eshana Lanka,Customer Support,Customer Support Executive,E1010,2018-01-10,2026-02-02,Terminated
+E1324,Champak Lanka,Customer Support,Customer Support Executive,E1010,2024-08-15,,Active
+E1325,Chatura Mall,Customer Support,Customer Support Executive,E1010,2020-03-19,,Active
+E1326,Bachittar Bora,Customer Support,Customer Support Executive,E1010,2017-06-02,,Active
+E1327,Lakshmi Sarraf,Customer Support,Customer Support Executive,E1010,2017-07-14,,Active
+E1328,Baljiwan Sundaram,Customer Support,Customer Support Executive,E1010,2016-12-05,,Active
+E1329,Falan Anne,Customer Support,Customer Support Executive,E1010,2024-06-03,,Active
+E1330,Falguni Bala,Customer Support,Customer Support Executive,E1010,2021-06-18,2025-06-17,Terminated
+E1331,Indali Venkatesh,Customer Support,Customer Support Executive,E1010,2016-01-14,2025-05-23,Terminated
+E1332,Waida Ramesh,Customer Support,Customer Support Executive,E1010,2016-12-28,,Active
+E1333,Zilmil Kata,Customer Support,Customer Support Executive,E1010,2022-06-29,,Active
+E1334,Anmol Wable,Customer Support,Customer Support Executive,E1010,2016-05-30,,Active
+E1335,Avni Chad,Customer Support,Customer Support Executive,E1010,2020-09-25,,Active
+E1336,Dakshesh Borra,Customer Support,Customer Support Executive,E1010,2023-06-22,,Active
+E1337,Lakshmi Kothari,Customer Support,Customer Support Executive,E1010,2025-01-07,,Active
+E1338,Gabriel Butala,Customer Support,Customer Support Executive,E1010,2021-06-02,,Active
+E1339,David Chada,Customer Support,Customer Support Executive,E1010,2021-05-12,,Active
+E1340,Jagat Karan,Customer Support,Customer Support Executive,E1010,2021-02-22,,Active
+E1341,Theodore Mammen,Customer Support,Customer Support Executive,E1010,2022-05-17,,Active
+E1342,Siddharth Nadkarni,Customer Support,Customer Support Executive,E1010,2021-06-10,,Active
+E1343,Atharv Parsa,Customer Support,Customer Support Executive,E1010,2021-12-16,,Active
+E1344,Krisha Comar,Customer Support,Customer Support Executive,E1010,2021-05-14,,Active
+E1345,Pavani Chatterjee,Customer Support,Customer Support Executive,E1010,2016-12-15,,Active
+E1346,Lavanya Kota,Customer Support,Customer Support Executive,E1010,2018-11-06,,Active
+E1347,Samar Pradhan,Customer Support,Customer Support Executive,E1010,2020-11-12,,Active
+E1348,Pushti Dara,Customer Support,Customer Support Executive,E1010,2020-09-10,2026-03-12,Terminated
+E1349,Anusha Mander,Customer Support,Customer Support Executive,E1010,2020-07-03,,Active
+E1350,Harshil Sankaran,Customer Support,Customer Support Executive,E1010,2022-12-09,,Active
+E1351,Ekbal Mahajan,Customer Support,Customer Support Executive,E1010,2017-12-26,,Active
+E1352,Gautami Johal,Customer Support,Customer Support Executive,E1010,2020-05-21,2025-05-21,Terminated
+E1353,Gautam Prasad,Customer Support,Customer Support Executive,E1010,2018-11-07,,Active
+E1354,Fitan Kannan,Customer Support,Customer Support Executive,E1010,2018-06-08,,Active
+E1355,Advaith Swamy,Customer Support,Customer Support Executive,E1010,2018-06-01,,Active
+E1356,William Vasa,Customer Support,Customer Support Executive,E1010,2020-03-05,,Active
+E1357,Liam Balay,Customer Support,Customer Support Executive,E1010,2023-06-14,,Active
+E1358,Bachittar Sathe,Customer Support,Customer Support Executive,E1010,2022-11-28,,Active
+E1359,Jalsa Shere,Customer Support,Customer Support Executive,E1010,2016-02-17,,Active
+E1360,Gaurangi Naik,Customer Support,Customer Support Executive,E1010,2024-09-16,,Active
+E1361,Niharika Rout,Customer Support,Customer Support Executive,E1010,2018-10-25,,Active
+E1362,Ishaan Dyal,Customer Support,Customer Support Executive,E1010,2017-10-26,,Active
+E1363,Zayyan Gola,Customer Support,Customer Support Executive,E1010,2020-12-22,,Active
+E1364,Mekhala Balasubramanian,Customer Support,Customer Support Executive,E1010,2017-08-24,,Active
+E1365,Aadi Prakash,Customer Support,Customer Support Executive,E1010,2021-07-13,,Active
+E1366,Keya Comar,Customer Support,Customer Support Executive,E1010,2021-03-03,,Active
+E1367,Theodore Kadakia,Customer Support,Customer Support Executive,E1010,2019-04-17,,Active
+E1368,Advaith Vasa,Customer Support,Customer Support Executive,E1010,2017-03-02,,Active
+E1369,Meghana Savant,Customer Support,Customer Support Executive,E1010,2022-03-07,,Active
+E1370,Zashil Kumar,Customer Support,Customer Support Executive,E1010,2018-07-13,,Active
+E1371,Tanveer Bassi,Customer Support,Customer Support Executive,E1010,2016-06-06,,Active
+E1372,Rachana Ramaswamy,Customer Support,Customer Support Executive,E1010,2024-01-09,,Active
+E1373,Nirja Ramachandran,Customer Support,Customer Support Executive,E1010,2020-06-10,,Active
+E1374,Anya Bhandari,Customer Support,Customer Support Executive,E1010,2019-08-05,,Active
+E1375,Harshil Sampath,Customer Support,Customer Support Executive,E1010,2022-10-07,,Active
+E1376,Aarna Sekhon,Customer Support,Customer Support Executive,E1010,2021-07-26,,Active
+E1377,Bina Gaba,Customer Support,Customer Support Executive,E1010,2018-09-26,,Active
+E1378,Omaja Seth,Customer Support,Customer Support Executive,E1010,2016-03-09,,Active
+E1379,Aradhana Butala,Customer Support,Customer Support Executive,E1010,2019-09-04,,Active
+E1380,Onkar Sarraf,Customer Support,Customer Support Executive,E1010,2020-06-09,,Active
+E1381,Harinakshi Dutt,Customer Support,Customer Support Executive,E1010,2016-02-11,,Active
+E1382,Shravya Mohan,Customer Support,Customer Support Executive,E1010,2023-10-12,,Active
+E1383,Imaran Aggarwal,Customer Support,Customer Support Executive,E1010,2016-06-13,,Active
+E1384,Mitali Salvi,Customer Support,Customer Support Executive,E1010,2023-02-27,,Active
+E1385,Yahvi Sabharwal,Customer Support,Customer Support Executive,E1010,2021-10-15,,Active
+E1386,Quincy Agarwal,Customer Support,Customer Support Executive,E1010,2018-02-13,,Active
+E1387,Victor Prasad,Customer Support,Customer Support Executive,E1010,2018-03-05,,Active
+E1388,Bhanumati Lanka,Customer Support,Customer Support Executive,E1010,2021-03-23,,Active
+E1389,Raghav Sule,Customer Support,Customer Support Executive,E1010,2017-06-06,,Active
+E1390,Widisha Sama,Customer Support,Customer Support Executive,E1010,2018-05-16,,Active
+E1391,Sneha Mital,Customer Support,Customer Support Executive,E1010,2017-10-24,,Active
+E1392,Advaith Tank,Customer Support,Customer Support Executive,E1010,2021-05-12,,Active
+E1393,Amrita Keer,Customer Support,Customer Support Executive,E1010,2018-03-12,,Active
+E1394,Chaman Zachariah,Customer Support,Customer Support Executive,E1010,2025-01-22,,Active
+E1395,Mugdha Venkatesh,Customer Support,Customer Support Executive,E1010,2025-03-11,,Active
+E1396,Qarin Shankar,Customer Support,Customer Support Executive,E1010,2023-09-27,,Active
+E1397,Rohan Tata,Customer Support,Customer Support Executive,E1010,2023-06-13,,Active
+E1398,Praneel Karnik,Customer Support,Customer Support Executive,E1010,2019-02-04,2025-05-12,Terminated
+E1399,Chaitanya Sharaf,Customer Support,Customer Support Executive,E1010,2019-09-17,,Active
+E1400,Bishakha Sur,Customer Support,Customer Support Executive,E1010,2019-04-24,,Active
+E1401,Ekalinga Sarkar,Customer Support,Customer Support Executive,E1010,2018-03-14,,Active
+E1402,Omkaar Randhawa,Credit Risk,Credit Approver,E1009,2026-01-13,,Active
+E1403,Elijah Kurian,Credit Risk,Credit Analyst,E1009,2025-06-06,,Active
+E1404,Wridesh Sura,Credit Risk,Credit Analyst,E1009,2025-11-14,,Active
+E1405,Samuel Samra,Credit Risk,Credit Analyst,E1009,2025-11-17,,Active
+E1406,Fariq Mandal,Credit Risk,Credit Approver,E1009,2025-09-16,,Active
+E1407,Ucchal Kohli,Credit Risk,Credit Analyst,E1009,2025-04-03,,Active
+E1408,Indali Sawhney,Credit Risk,Credit Analyst,E1009,2025-08-21,,Active
+E1409,Manya Kapoor,Credit Risk,Credit Approver,E1009,2018-05-24,,Active
+E1410,Ayushman Venkataraman,Credit Risk,Credit Approver,E1009,2022-05-25,,Active
+E1411,Jacob Kothari,Credit Risk,Credit Analyst,E1009,2024-12-26,,Active
+E1412,Utkarsh Ramaswamy,Credit Risk,Credit Analyst,E1009,2020-02-06,,Active
+E1413,Falan Borde,Credit Risk,Credit Analyst,E1009,2018-02-06,,Active
+E1414,Nirja Sampath,Credit Risk,Credit Approver,E1009,2023-07-11,,Active
+E1415,Abhiram Guha,Credit Risk,Credit Approver,E1009,2017-07-06,,Active
+E1416,Kritika Sunder,Credit Risk,Credit Analyst,E1009,2017-07-24,,Active
+E1417,Krisha Virk,Credit Risk,Credit Analyst,E1009,2019-09-13,,Active
+E1418,Zashil Patla,Credit Risk,Credit Analyst,E1009,2023-05-18,,Active
+E1419,Anvi Basu,Credit Risk,Credit Analyst,E1009,2024-05-27,,Active
+E1420,Teerth Gole,Credit Risk,Credit Analyst,E1009,2018-03-16,,Active
+E1421,Vivaan Sura,Credit Risk,Credit Approver,E1009,2017-03-08,,Active
+E1422,Nidra Banerjee,Credit Risk,Credit Analyst,E1009,2023-01-02,,Active
+E1423,Reyansh Bains,Credit Risk,Credit Analyst,E1009,2021-07-07,,Active
+E1424,Tamanna Sagar,Credit Risk,Credit Analyst,E1009,2017-06-15,,Active
+E1425,Krish Yogi,Credit Risk,Credit Analyst,E1009,2019-08-21,,Active
+E1426,Sanaya Thaker,Credit Risk,Credit Approver,E1009,2023-02-23,,Active
+E1427,Urmi Ben,Credit Risk,Credit Analyst,E1009,2024-08-13,2025-11-12,Terminated
+E1428,Chandran Sawhney,Credit Risk,Credit Approver,E1009,2019-03-05,,Active
+E1429,Omya Gopal,Credit Risk,Credit Approver,E1009,2021-02-16,,Active
+E1430,Vaishnavi Sani,Credit Risk,Credit Analyst,E1009,2018-07-27,2025-10-24,Terminated
+E1431,Veer Taneja,Credit Risk,Credit Approver,E1009,2022-05-23,,Active
+E1432,Madhav Arora,Credit Risk,Credit Analyst,E1009,2020-09-15,,Active
+E1433,Azaan Purohit,Credit Risk,Credit Analyst,E1009,2016-02-24,,Active
+E1434,Raksha Sami,Credit Risk,Credit Analyst,E1009,2023-12-15,,Active
+E1435,Daksha Amble,Credit Risk,Credit Analyst,E1009,2016-09-23,,Active
+E1436,Unni Rege,Credit Risk,Credit Approver,E1009,2016-01-25,,Active
+E1437,Gaurangi Kaul,Credit Risk,Credit Approver,E1009,2021-09-20,2025-10-14,Terminated
+E1438,Ria Mammen,Credit Risk,Credit Approver,E1009,2019-08-07,,Active
+E1439,Panini Doshi,Credit Risk,Credit Approver,E1009,2021-02-08,,Active
+E1440,Leela Chaudry,Credit Risk,Credit Approver,E1009,2019-08-27,2025-10-28,Terminated
+E1441,Advaith Morar,Credit Risk,Credit Approver,E1009,2022-06-09,,Active
+E1442,Yug Tak,Credit Risk,Credit Approver,E1009,2022-09-05,2025-08-14,Terminated
+E1443,Falguni Narayan,Credit Risk,Credit Analyst,E1009,2017-01-26,,Active
+E1444,Charles Kakar,Credit Risk,Credit Analyst,E1009,2025-02-18,2025-06-20,Terminated
+E1445,Vinaya Pillay,Credit Risk,Credit Approver,E1009,2017-10-17,,Active
+E1446,Aishani Khurana,Credit Risk,Credit Analyst,E1009,2024-05-23,,Active
+E1447,Ati Lanka,Credit Risk,Credit Approver,E1009,2021-11-16,,Active
+E1448,Anjali Lata,Credit Risk,Credit Analyst,E1009,2016-12-02,,Active
+E1449,Indali Deep,Credit Risk,Credit Analyst,E1009,2024-09-17,,Active
+E1450,Chaitaly Buch,Credit Risk,Credit Analyst,E1009,2022-10-10,,Active
+E1451,Chasmum Purohit,Credit Risk,Credit Analyst,E1009,2019-03-12,,Active
+E1452,Bhavna Chanda,Credit Risk,Credit Approver,E1009,2024-09-25,2025-08-15,Terminated
+E1453,Vasana Balakrishnan,Credit Risk,Credit Analyst,E1009,2022-09-01,,Active
+E1454,Forum Talwar,Credit Risk,Credit Approver,E1009,2024-10-18,,Active
+E1455,Ansh Sahota,Credit Risk,Credit Approver,E1009,2023-10-10,,Active
+E1456,Dhruv Tak,Credit Risk,Credit Approver,E1009,2024-06-07,2025-11-13,Terminated
+E1457,Girindra Sangha,Credit Risk,Credit Analyst,E1009,2020-01-29,,Active
+E1458,Wazir Kothari,Credit Risk,Credit Approver,E1009,2016-06-20,,Active
+E1459,Naveen Lanka,Credit Risk,Credit Approver,E1009,2018-02-13,,Active
+E1460,Ira Dua,Credit Risk,Credit Analyst,E1009,2019-11-08,2025-06-02,Terminated
+E1461,Kala Kaul,Credit Risk,Credit Approver,E1009,2023-11-17,2025-07-08,Terminated
+E1462,Yadavi Zachariah,Credit Risk,Credit Approver,E1009,2022-01-28,,Active
+E1463,Neelima Prakash,Credit Risk,Credit Analyst,E1009,2022-11-28,,Active
+E1464,Amol Kota,Credit Risk,Credit Approver,E1009,2024-05-15,,Active
+E1465,Ronith Verma,Credit Risk,Credit Approver,E1009,2022-03-09,,Active
+E1466,Anya Ramakrishnan,Credit Risk,Credit Analyst,E1009,2019-07-05,2026-03-02,Terminated
+E1467,Ranbir Tiwari,Credit Risk,Credit Analyst,E1009,2024-07-26,,Active
+E1468,Wriddhish Balan,Credit Risk,Credit Analyst,E1009,2020-12-09,2025-08-05,Terminated
+E1469,Urmi Som,Credit Risk,Credit Analyst,E1009,2023-10-03,,Active
+E1470,Lakshmi Sur,Credit Risk,Credit Approver,E1009,2022-08-12,,Active
+E1471,Amol Gala,Credit Risk,Credit Approver,E1009,2024-07-23,2025-09-02,Terminated
+E1472,Jyoti Yogi,Finance,Accountant,E1001,2025-09-01,,Active
+E1473,Bhavika Mall,Finance,Finance Analyst,E1001,2025-04-03,,Active
+E1474,Raagini Sane,Finance,Finance Analyst,E1001,2025-08-26,,Active
+E1475,Harita Madan,Finance,Finance Analyst,E1001,2025-10-23,,Active
+E1476,Rishi Zachariah,Finance,Finance Analyst,E1001,2024-09-06,,Active
+E1477,Rachit Bora,Finance,Accountant,E1001,2019-06-13,,Active
+E1478,Om Wadhwa,Finance,Accountant,E1001,2018-07-06,2025-09-05,Terminated
+E1479,Wriddhish Bhatt,Finance,Finance Analyst,E1001,2016-04-12,,Active
+E1480,Nirja Deo,Finance,Accountant,E1001,2022-06-23,,Active
+E1481,Girik Sama,Finance,Finance Analyst,E1001,2021-06-03,,Active
+E1482,Riya Devan,Finance,Finance Analyst,E1001,2024-09-20,,Active
+E1483,Logan Boase,Finance,Accountant,E1001,2020-03-23,,Active
+E1484,Mason Vora,Finance,Finance Analyst,E1001,2021-12-30,,Active
+E1485,Vritti Dass,Finance,Finance Analyst,E1001,2017-04-10,,Active
+E1486,Eshana Modi,Finance,Finance Analyst,E1001,2020-01-22,,Active
+E1487,Kashish Gulati,Finance,Finance Analyst,E1001,2017-09-22,,Active
+E1488,Jasmit Sheth,Finance,Accountant,E1001,2024-10-07,,Active
+E1489,Vivaan Goel,Finance,Accountant,E1001,2018-05-04,,Active
+E1490,Luke Mahal,Finance,Finance Analyst,E1001,2021-10-22,2025-04-11,Terminated
+E1491,Jhalak Kumer,Finance,Finance Analyst,E1001,2020-06-08,,Active
+E1492,Manbir Bansal,Finance,Accountant,E1001,2023-08-21,,Active
+E1493,Chandran Goyal,Finance,Finance Analyst,E1001,2019-08-29,,Active
+E1494,Rachana Raghavan,Finance,Accountant,E1001,2020-12-24,,Active
+E1495,Ganga Bhavsar,Finance,Finance Analyst,E1001,2024-01-15,2025-09-16,Terminated
+E1496,Ronith Khatri,Finance,Accountant,E1001,2018-09-13,,Active
+E1497,Vihaan Buch,Finance,Accountant,E1001,2019-02-14,,Active
+E1498,Yashodhara Bhakta,Finance,Accountant,E1001,2022-10-26,2025-08-18,Terminated
+E1499,Fitan Soman,Finance,Accountant,E1001,2025-02-13,,Active
+E1500,Laksh Chacko,Finance,Finance Analyst,E1001,2018-12-20,,Active
+E1501,Rushil Thaker,Finance,Finance Analyst,E1001,2020-12-11,,Active
+E1502,Ranveer Gulati,Finance,Finance Analyst,E1001,2021-06-11,,Active
+E1503,Sachi Shenoy,Finance,Accountant,E1001,2022-08-18,,Active
+E1504,Radhika Mander,Finance,Finance Analyst,E1001,2025-02-17,,Active
+E1505,Falak Murthy,Finance,Finance Analyst,E1001,2022-11-29,,Active
+E1506,Isaac Misra,Finance,Accountant,E1001,2022-12-02,,Active
+E1507,Ishita Mander,Finance,Accountant,E1001,2021-10-20,,Active
+E1508,Simon Rau,Finance,Finance Analyst,E1001,2019-12-12,,Active
+E1509,Pavani Sunder,Finance,Finance Analyst,E1001,2021-07-13,,Active
+E1510,Mason Kibe,Finance,Finance Analyst,E1001,2022-09-14,,Active
+E1511,Yashasvi Sarna,Finance,Accountant,E1001,2021-10-28,,Active
+E1512,Tejas Ranganathan,Finance,Accountant,E1001,2023-08-07,,Active
+E1513,Tanveer Sampath,Finance,Finance Analyst,E1001,2016-03-25,,Active
+E1514,Rayaan Tata,Finance,Accountant,E1001,2019-02-27,,Active
+E1515,Lavanya Brar,Finance,Accountant,E1001,2016-08-25,,Active
+E1516,Kala Bhatt,Finance,Finance Analyst,E1001,2021-02-26,,Active
+E1517,Bakhshi Pillai,Compliance,Compliance Analyst,E1011,2025-08-06,,Active
+E1518,Ranveer Lala,Compliance,Compliance Analyst,E1011,2025-05-15,,Active
+E1519,Maya Mander,Compliance,Compliance Analyst,E1011,2016-09-13,,Active
+E1520,Umang Viswanathan,Compliance,Compliance Analyst,E1011,2017-05-15,2025-08-29,Terminated
+E1521,Ijaya Sachdeva,Compliance,Compliance Analyst,E1011,2017-12-07,,Active
+E1522,Janaki Swamy,Compliance,Compliance Analyst,E1011,2019-02-21,,Active
+E1523,Neel Khatri,Compliance,Compliance Analyst,E1011,2018-05-17,,Active
+E1524,Vritti Som,Compliance,Compliance Analyst,E1011,2016-04-19,,Active
+E1525,Wishi Chadha,Compliance,Compliance Analyst,E1011,2024-02-29,2025-12-09,Terminated
+E1526,Qarin Bassi,Compliance,Compliance Analyst,E1011,2020-03-25,,Active
+E1527,Yash Om,Compliance,Compliance Analyst,E1011,2022-08-30,,Active
+E1528,Umang Palan,Compliance,Compliance Analyst,E1011,2022-10-24,,Active
+E1529,Irya Shah,Compliance,Compliance Analyst,E1011,2022-05-23,,Active
+E1530,Daksh Rattan,Compliance,Compliance Analyst,E1011,2019-10-10,,Active
+E1531,Gopal Sane,Compliance,Compliance Analyst,E1011,2018-10-12,,Active
+E1532,Netra Sharaf,Compliance,Compliance Analyst,E1011,2022-08-17,,Active
+E1533,Fitan Manda,Compliance,Compliance Analyst,E1011,2022-09-16,,Active
+E1534,Amaira Bera,Compliance,Compliance Analyst,E1011,2022-03-11,,Active
+E1535,Jalsa Dash,Compliance,Compliance Analyst,E1011,2020-10-27,,Active
+E1536,Chaitanya Raju,Compliance,Compliance Analyst,E1011,2023-11-13,,Active
+E1537,Abhimanyu Balan,Compliance,Compliance Analyst,E1011,2019-01-28,,Active
+E1538,Ojas Dhawan,Compliance,Compliance Analyst,E1011,2021-03-02,,Active
+E1539,Samaksh Bala,Compliance,Compliance Analyst,E1011,2020-11-06,,Active
+E1540,Aditya Tara,Compliance,Compliance Analyst,E1011,2016-10-24,,Active
+E1541,Inaya Sagar,Compliance,Compliance Analyst,E1011,2019-03-22,,Active
+E1542,Faqid Modi,HR,HR Executive,E1007,2025-07-16,,Active
+E1543,Madhavi Mishra,HR,HR Executive,E1007,2026-01-12,,Active
+E1544,Forum Taneja,HR,HR Executive,E1007,2019-10-24,,Active
+E1545,Yamini Mand,HR,HR Executive,E1007,2019-02-13,,Active
+E1546,Ekantika Mangal,HR,HR Executive,E1007,2025-02-12,,Active
+E1547,Vrinda Vasa,HR,HR Executive,E1007,2016-12-08,,Active
+E1548,Ayushman Mangat,HR,HR Executive,E1007,2021-10-25,,Active
+E1549,Qushi Bhagat,HR,HR Executive,E1007,2017-07-28,,Active
+E1550,Warjas Hora,HR,HR Executive,E1007,2019-07-19,,Active
+E1551,Abdul Kashyap,HR,HR Executive,E1007,2020-12-17,,Active
+E1552,Geetika Jayaraman,HR,HR Executive,E1007,2020-01-20,,Active
+E1553,Nakul Hari,HR,HR Executive,E1007,2023-01-27,,Active
+E1554,Mugdha Bhakta,HR,HR Executive,E1007,2019-09-26,,Active
+E1555,Arunima Kakar,HR,HR Executive,E1007,2020-07-10,,Active
+E1556,Faraj Agarwal,HR,HR Executive,E1007,2022-04-07,,Active
+E1557,Ekiya Pingle,HR,HR Executive,E1007,2020-03-17,,Active
+E1558,Aayush Mallick,HR,HR Executive,E1007,2020-06-17,,Active
+E1559,Lajita Sheth,HR,HR Executive,E1007,2016-01-07,,Active
+E1560,Vanya Hans,HR,HR Executive,E1007,2019-05-22,,Active
+E1561,Gabriel Deshmukh,HR,HR Executive,E1007,2017-04-13,,Active
+E1562,Alka Tak,IT - Application Development,Software Developer,E1003,2025-07-22,2025-09-22,Terminated
+E1563,Rachana Manne,IT - Application Development,Senior Developer,E1003,2025-12-22,,Active
+E1564,Naveen Arya,IT - Application Development,Senior Developer,E1003,2026-02-03,,Active
+E1565,Maanav Kala,IT - Application Development,Senior Developer,E1003,2026-01-13,,Active
+E1566,Dakshesh Muni,IT - Application Development,Senior Developer,E1003,2022-02-18,,Active
+E1567,Faraj Tank,IT - Application Development,Senior Developer,E1003,2025-02-18,,Active
+E1568,Mitesh Kale,IT - Application Development,Software Developer,E1003,2024-06-05,,Active
+E1569,Yashodhara Raman,IT - Application Development,Software Developer,E1003,2023-02-01,,Active
+E1570,Jonathan Brahmbhatt,IT - Application Development,Senior Developer,E1003,2018-07-27,,Active
+E1571,Megha Devan,IT - Application Development,Senior Developer,E1003,2020-10-27,,Active
+E1572,Hardik Dalal,IT - Application Development,Senior Developer,E1003,2024-05-02,,Active
+E1573,Elijah Srinivas,IT - Application Development,Senior Developer,E1003,2016-12-27,,Active
+E1574,Tristan Chana,IT - Application Development,Software Developer,E1003,2024-02-12,,Active
+E1575,Balveer Grover,IT - Application Development,Software Developer,E1003,2017-01-26,,Active
+E1576,Ishaan Goswami,IT - Application Development,Senior Developer,E1003,2024-11-26,,Active
+E1577,Jonathan Bansal,IT - Application Development,Senior Developer,E1003,2022-11-22,,Active
+E1578,Owen Oza,IT - Application Development,Software Developer,E1003,2021-01-05,,Active
+E1579,Daksha Mishra,IT - Application Development,Senior Developer,E1003,2017-10-31,,Active
+E1580,Unni Kuruvilla,IT - Application Development,Senior Developer,E1003,2021-01-25,,Active
+E1581,Nikita Kade,IT - Application Development,Software Developer,E1003,2019-02-12,,Active
+E1582,Ijaya Sibal,IT - Application Development,Software Developer,E1003,2020-01-10,,Active
+E1583,Tanmayi Rajagopal,IT - Application Development,Software Developer,E1003,2020-12-10,,Active
+E1584,Yashasvi Kulkarni,IT - Application Development,Software Developer,E1003,2019-10-24,,Active
+E1585,Damini Nadig,IT - Application Development,Software Developer,E1003,2022-06-20,,Active
+E1586,Shravya Padmanabhan,IT - Application Development,Senior Developer,E1003,2022-08-23,,Active
+E1587,Vasatika Rana,IT - Application Development,Senior Developer,E1003,2022-10-11,,Active
+E1588,Gagan Shankar,IT - Application Development,Software Developer,E1003,2017-03-27,,Active
+E1589,Varenya Ramanathan,IT - Application Development,Senior Developer,E1003,2020-11-19,,Active
+E1590,Warhi Joshi,IT - Application Development,Software Developer,E1003,2020-09-21,,Active
+E1591,Chanakya Kohli,IT - Application Development,Senior Developer,E1003,2021-08-26,,Active
+E1592,Ubika Rege,IT - Application Development,Software Developer,E1003,2025-01-24,,Active
+E1593,Yug Sen,IT - Application Development,Software Developer,E1003,2018-02-05,,Active
+E1594,Zarna Purohit,IT - Application Development,Senior Developer,E1003,2024-11-08,,Active
+E1595,Warinder Seshadri,IT - Application Development,Software Developer,E1003,2024-06-11,2026-01-29,Terminated
+E1596,Anmol Rana,IT - Application Development,Senior Developer,E1003,2022-08-26,2025-05-19,Terminated
+E1597,Harinakshi Sane,IT - Application Development,Senior Developer,E1003,2022-02-17,,Active
+E1598,Finn Sunder,IT - Application Development,Senior Developer,E1003,2018-12-24,,Active
+E1599,David Bali,IT - Application Development,Senior Developer,E1003,2021-06-09,2025-12-10,Terminated
+E1600,Tara Borde,IT - Application Development,Senior Developer,E1003,2021-08-03,,Active
+E1601,Krishna Karpe,IT - Application Development,Senior Developer,E1003,2017-07-18,,Active
+E1602,Kalpit Hora,IT - Application Development,Software Developer,E1003,2019-05-17,2025-08-14,Terminated
+E1603,Aadi Mitter,IT - Application Development,Software Developer,E1003,2021-08-04,2025-09-16,Terminated
+E1604,Chavvi Bera,IT - Application Development,Senior Developer,E1003,2022-11-14,,Active
+E1605,Lavanya Kulkarni,IT - Application Development,Software Developer,E1003,2022-04-06,2025-09-05,Terminated
+E1606,Vamakshi Bhalla,IT - Application Development,Senior Developer,E1003,2017-08-14,,Active
+E1607,Laban Ganguly,IT - Operations,Database Administrator,E1005,2026-01-02,,Active
+E1608,Wazir Parsa,IT - Operations,Release Engineer,E1005,2025-05-28,,Active
+E1609,Warjas Palla,IT - Operations,Systems Engineer,E1005,2025-12-23,,Active
+E1610,Jai Seth,IT - Operations,Release Engineer,E1005,2025-07-04,,Active
+E1611,Nathaniel Ramaswamy,IT - Operations,Systems Engineer,E1005,2019-11-11,,Active
+E1612,Joshua Shanker,IT - Operations,Release Engineer,E1005,2021-08-12,,Active
+E1613,Wahab Natt,IT - Operations,Systems Engineer,E1005,2018-01-08,,Active
+E1614,Alka Sane,IT - Operations,Systems Engineer,E1005,2017-06-21,,Active
+E1615,Jagat Srinivasan,IT - Operations,Release Engineer,E1005,2021-03-01,,Active
+E1616,Darsh Mody,IT - Operations,Release Engineer,E1005,2019-04-12,,Active
+E1617,Mohammed Warrior,IT - Operations,Systems Engineer,E1005,2021-03-15,,Active
+E1618,Vedant Keer,IT - Operations,Release Engineer,E1005,2022-05-20,,Active
+E1619,Yahvi Bal,IT - Operations,Database Administrator,E1005,2020-06-12,,Active
+E1620,Yashvi Bhattacharyya,IT - Operations,Release Engineer,E1005,2024-10-01,,Active
+E1621,Maanas Sibal,IT - Operations,Database Administrator,E1005,2016-10-26,,Active
+E1622,Daksh Som,IT - Operations,Systems Engineer,E1005,2018-08-03,,Active
+E1623,Yashoda Kulkarni,IT - Operations,Systems Engineer,E1005,2021-06-23,,Active
+E1624,Yashawini Rau,IT - Operations,Database Administrator,E1005,2024-08-20,,Active
+E1625,Ekiya Zacharia,IT - Operations,Database Administrator,E1005,2018-04-27,,Active
+E1626,Nisha Maharaj,IT - Operations,Release Engineer,E1005,2020-10-05,,Active
+E1627,Chakradhar Sharaf,IT - Operations,Release Engineer,E1005,2016-11-25,,Active
+E1628,Bhavini Seshadri,IT - Operations,Systems Engineer,E1005,2021-03-19,,Active
+E1629,Nitesh Johal,IT - Operations,Database Administrator,E1005,2016-02-01,,Active
+E1630,Yahvi Chakraborty,IT - Operations,Release Engineer,E1005,2019-12-11,,Active
+E1631,Akshay Loke,IT - Operations,Database Administrator,E1005,2024-09-06,,Active
+E1632,Kabir Nagi,IT - Operations,Release Engineer,E1005,2021-11-17,,Active
+E1633,Arin Sengupta,IT - Operations,Database Administrator,E1005,2016-05-03,,Active
+E1634,Ira Kalita,IT - Operations,Systems Engineer,E1005,2020-09-18,,Active
+E1635,Udarsh Rege,IT - Operations,Systems Engineer,E1005,2025-02-28,,Active
+E1636,Riya Dasgupta,IT - Operations,Database Administrator,E1005,2021-06-14,,Active
+E1637,Balendra Comar,IT - Operations,Release Engineer,E1005,2018-07-20,,Active
+E1638,Yutika Mannan,IT - Operations,Database Administrator,E1005,2024-08-23,,Active
+E1639,Manthan Gaba,IT - Operations,Systems Engineer,E1005,2017-11-16,,Active
+E1640,Pooja Rajagopal,IT - Operations,Systems Engineer,E1005,2016-11-03,,Active
+E1641,Yashawini Ray,IT - Operations,Release Engineer,E1005,2020-08-13,,Active
+E1642,Ranbir Thaman,IT - Information Security,Security Analyst,E1006,2025-10-29,,Active
+E1643,Avni Kaul,IT - Information Security,Security Analyst,E1006,2024-12-25,2026-01-23,Terminated
+E1644,Nathaniel Panchal,IT - Information Security,Security Analyst,E1006,2023-08-15,,Active
+E1645,Krish Shah,IT - Information Security,Security Analyst,E1006,2021-06-17,,Active
+E1646,Aashi Mann,IT - Information Security,Security Analyst,E1006,2020-03-24,,Active
+E1647,Jacob Deol,IT - Information Security,Security Analyst,E1006,2018-10-26,,Active
+E1648,Sarthak Mammen,IT - Information Security,Security Analyst,E1006,2022-09-29,,Active
+E1649,Bishakha Mane,IT - Information Security,Security Analyst,E1006,2019-02-01,,Active
+E1650,Jagvi Singh,IT - Information Security,Security Analyst,E1006,2022-11-07,,Active
+E1651,Neel Bir,IT - Information Security,Security Analyst,E1006,2018-01-10,,Active
+E1652,Krisha Rastogi,IT - Information Security,Security Analyst,E1006,2022-11-30,,Active
+E1653,Vincent Chatterjee,IT - Information Security,Security Analyst,E1006,2021-06-24,,Active

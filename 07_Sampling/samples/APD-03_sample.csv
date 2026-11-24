@@ -1,0 +1,5 @@
+sample_no,review_id,quarter,quarter_end,review_due_date,review_completed_date,managers_in_scope,managers_signed_off,removals_requested,removals_completed,evidence_reference
+1,UAR-Q1,Q1,2025-06-30,2025-07-30,2025-07-21,5,5,2,2,UAR-FY26-Q1 sign-off pack
+2,UAR-Q2,Q2,2025-09-30,2025-10-30,2025-10-16,5,5,2,2,UAR-FY26-Q2 sign-off pack
+3,UAR-Q3,Q3,2025-12-31,2026-01-30,2026-01-14,5,5,4,2,UAR-FY26-Q3 sign-off pack
+4,UAR-Q4,Q4,2026-03-31,2026-04-30,2026-04-20,5,5,4,4,UAR-FY26-Q4 sign-off pack

@@ -1,0 +1,12 @@
+system,layer,privilege,account_name,employee_id,granted_date
+LendCore,Application,System Admin,yashvi_adm,E1620,2024-10-01
+LendCore,Application,System Admin,nathaniel_adm,E1611,2023-02-01
+LendCore,Application,System Admin,kabir_adm,E1632,2021-11-17
+NL-DB-01,Database,PostgreSQL superuser,udarsh_adm,E1635,2025-02-28
+NL-DB-01,Database,PostgreSQL superuser,ira_adm,E1634,2022-06-30
+NL-DB-01,Operating System,Linux sudo (root),daksh_adm,E1622,2022-03-10
+NL-DB-01,Operating System,Linux sudo (root),arin_adm,E1633,2024-02-07
+NL-APP-01,Operating System,Linux sudo (root),balendra_adm,E1637,2021-07-13
+NL-APP-01,Operating System,Linux sudo (root),jagat_adm,E1615,2022-03-15
+NL-APP-01,Operating System,Linux sudo (root),nitesh_adm,E1629,2022-06-23
+LendCore,Application,System Admin,unni_adm,E1580,2024-02-12
